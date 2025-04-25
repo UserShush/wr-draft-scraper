@@ -1,0 +1,1096 @@
+
+
+--- Comment 1 ---
+
+include:start ="/inc/klecko_header_pfr.html_f"
+
+--- End Comment ---
+
+
+
+--- Comment 2 ---
+
+no:cookie fast load the css.
+
+--- End Comment ---
+
+
+
+--- Comment 3 ---
+
+CSS start
+
+--- End Comment ---
+
+
+
+--- Comment 4 ---
+
+CSS END
+
+--- End Comment ---
+
+
+
+--- Comment 5 ---
+
+JS START
+
+--- End Comment ---
+
+
+
+--- Comment 6 ---
+
+JS END
+
+--- End Comment ---
+
+
+
+--- Comment 7 ---
+
+include:end ="/inc/klecko_header_pfr.html_f"
+
+--- End Comment ---
+
+
+
+--- Comment 8 ---
+
+HeaderPersonSchema
+
+--- End Comment ---
+
+
+
+--- Comment 9 ---
+
+HeaderPersonSchema:END
+
+--- End Comment ---
+
+
+
+--- Comment 10 ---
+
+HeaderSeoSocial
+
+--- End Comment ---
+
+
+
+--- Comment 11 ---
+
+HeaderSeoSocial:END
+
+--- End Comment ---
+
+
+
+--- Comment 12 ---
+
+tiles, touch, favicons
+
+--- End Comment ---
+
+
+
+--- Comment 13 ---
+
+[if IE]>
+    <link rel="shortcut icon"                                href="https://cdn.ssref.net/req/202504231/favicons/pfr/favicon.ico"><![endif]
+
+--- End Comment ---
+
+
+
+--- Comment 14 ---
+
+tiles, touch, favicons:end
+
+--- End Comment ---
+
+
+
+--- Comment 15 ---
+
+ad code: begin
+
+--- End Comment ---
+
+
+
+--- Comment 16 ---
+
+ad code:end
+
+--- End Comment ---
+
+
+
+--- Comment 17 ---
+
+ul.user
+
+--- End Comment ---
+
+
+
+--- Comment 18 ---
+
+div#nav
+
+--- End Comment ---
+
+
+
+--- Comment 19 ---
+
+div.search
+
+--- End Comment ---
+
+
+
+--- Comment 20 ---
+
+div#header
+
+--- End Comment ---
+
+
+
+--- Comment 21 ---
+
+no announcement
+
+--- End Comment ---
+
+
+
+--- Comment 22 ---
+
+div.media-item
+
+--- End Comment ---
+
+
+
+--- Comment 23 ---
+
+div#meta
+
+--- End Comment ---
+
+
+
+--- Comment 24 ---
+
+Recognition:
+
+* 5x Pro Bowl
+* 3x All-Pro
+
+Uniforms:
+
+* Number 10 for Houston Texans 2013-2019
+* Number 10 for Arizona Cardinals 2020-2022
+* Number 10 for Tennessee Titans 2023-2024
+* Number 8 for Kansas City Chiefs 2024
+
+--- End Comment ---
+
+
+
+--- Comment 25 ---
+
+div#fs_fs_300_atf
+
+--- End Comment ---
+
+
+
+--- Comment 26 ---
+
+/div.#fs_fs_300_atf
+
+--- End Comment ---
+
+
+
+--- Comment 27 ---
+
+div#info
+
+--- End Comment ---
+
+
+
+--- Comment 28 ---
+
+div#fs_fs_728_atf
+
+--- End Comment ---
+
+
+
+--- Comment 29 ---
+
+sf:blank by design for video ad
+
+--- End Comment ---
+
+
+
+--- Comment 30 ---
+
+/div.#fs_fs_728_atf
+
+--- End Comment ---
+
+
+
+--- Comment 31 ---
+
+div#srcom
+
+--- End Comment ---
+
+
+
+--- Comment 32 ---
+
+div#inner_nav
+
+--- End Comment ---
+
+
+
+--- Comment 33 ---
+
+fs_general_header
+
+--- End Comment ---
+
+
+
+--- Comment 34 ---
+
+div#fs_fs_general_header
+
+--- End Comment ---
+
+
+
+--- Comment 35 ---
+
+/div.#fs_fs_general_header
+
+--- End Comment ---
+
+
+
+--- Comment 36 ---
+
+fs_btf_1
+
+--- End Comment ---
+
+
+
+--- Comment 37 ---
+
+Tag ID: BTF-1  3-Super unit
+
+--- End Comment ---
+
+
+
+--- Comment 38 ---
+
+Tag ID: pro-football-reference_300x250_BTF-1-1
+
+--- End Comment ---
+
+
+
+--- Comment 39 ---
+
+<div class="section_content" id="div_6308728633">
+	    <ul class="news_stories">
+<li><strong>4/16</strong> <a rel="nofollow noopener" target="_blank"  href="https://www.profootballrumors.com/2025/04/afc-draft-rumors-raiders-membou-jeanty-barron-burden-titans-jackson-texans-grant-bengals-jaguars" onclick="sr_record_analytics_event('newsfeed_click','ProFootballRumors.com', sr_record_directory(),'sr_tracker');">ProFootballRumors.com: AFC Draft Rumors: Membou, Raiders, Titans, Jackson, Texans, Bengals, Jaguars</a>:&nbsp;<em>The top four teams in this draft seem pointed in certain directions,</em>...
+</li><li><strong>4/13</strong> <a rel="nofollow noopener" target="_blank"  href="https://nfltraderumors.co/afc-notes-jimmy-haslam-ronnie-stanley-bengals-browns-steelers/" onclick="sr_record_analytics_event('newsfeed_click','NFL Trade Rumors', sr_record_directory(),'sr_tracker');">NFL Trade Rumors: AFC Notes: Jimmy Haslam, Ronnie Stanley, Bengals, Browns, Steelers</a>:&nbsp;<em>Bengals The Bengals elected to re-sign WRs Ja&#8217;Marr Chase</em>...
+</li><li><strong>4/9</strong> <a rel="nofollow noopener" target="_blank"  href="https://www.profootballrumors.com/2025/04/chiefs-wr-rashee-rice-expected-to-be-ready-for-training-camp" onclick="sr_record_analytics_event('newsfeed_click','ProFootballRumors.com', sr_record_directory(),'sr_tracker');">ProFootballRumors.com: Chiefs WR Rashee Rice Expected To Be Ready For Training Camp</a>:&nbsp;<em>Rashee Rice&#8216;s season ended in Week 4 following a freak collision</em>...
+</li><li><strong>4/4</strong> <a rel="nofollow noopener" target="_blank"  href="https://www.profootballrumors.com/2025/04/ravens-notes-free-agency-humphrey-simpson-washington" onclick="sr_record_analytics_event('newsfeed_click','ProFootballRumors.com', sr_record_directory(),'sr_tracker');">ProFootballRumors.com: Ravens Notes: Free Agency, Humphrey, Simpson, Washington</a>:&nbsp;<em>To little surprise, the Ravens have not been busy so far in free</em>...
+</li><li><strong>4/3</strong> <a rel="nofollow noopener" target="_blank"  href="https://www.profootballrumors.com/2025/04/titans-aiming-to-make-wr-addition-cb-ljarius-sneed-likely-to-be-ready-for-training-camp" onclick="sr_record_analytics_event('newsfeed_click','ProFootballRumors.com', sr_record_directory(),'sr_tracker');">ProFootballRumors.com: Titans Aiming To Make WR Addition; CB L&#8217;Jarius Sneed Likely To Be Ready For Training Camp</a>:&nbsp;<em>Trading DeAndre Hopkins to the Chiefs before last year&#8217;s</em>...
+</li></ul>
+		
+    </div>
+
+--- End Comment ---
+
+
+
+--- Comment 40 ---
+
+fs_btf_2
+
+--- End Comment ---
+
+
+
+--- Comment 41 ---
+
+div#fs_fs_btf_2
+
+--- End Comment ---
+
+
+
+--- Comment 42 ---
+
+/div.#fs_fs_btf_2
+
+--- End Comment ---
+
+
+
+--- Comment 43 ---
+
+<div class="table_container" id="div_fantasy">
+    
+    <table class="sortable stats_table" id="fantasy" data-cols-to-freeze=",1">
+    <caption>Fantasy Table</caption>
+    
+
+   <colgroup><col><col><col><col><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="Year" data-stat="year_id" scope="col" class=" poptip sort_default_asc left" >Year</th>
+         <th aria-label="Age" data-stat="age" scope="col" class=" poptip sort_default_asc center" data-tip="Player's age on December 31st of that year" >Age</th>
+         <th aria-label="Games" data-stat="g" scope="col" class=" poptip center" data-tip="Games played" >G</th>
+         <th aria-label="FantPos" data-stat="fantasy_pos" scope="col" class=" poptip center" data-tip="<b>Fantasy position</b>: QB, RB, WR, or TE" >FantPos</th>
+         <th aria-label="Fantasy Points" data-stat="fantasy_points" scope="col" class=" poptip center" data-tip="<b>Fantasy points:</b><br /> 1 point per 25 yards passing<br /> 4 points per passing touchdown<br /> -2 points per interception thrown<br /> 1 point per 10 yards rushing/receiving<br /> 6 points per TD<br /> 2 points per two-point conversion<br /> -2 points per fumble lost (est. prior to 1994)" >FantPt</th>
+         <th aria-label="VBD" data-stat="vbd" scope="col" class=" poptip center" data-tip="<b>VBD</b>: popularized by Joe Bryant in the 90s,<br>this is the players fantasy points minus the fantasy points of the baseline player,<br>where the baseline player is the 12th-ranked QB,<br>the 24th-ranked RB,<br>the 30th-ranked WR,<br>or the 12th-ranked TE" >VBD</th>
+         <th aria-label="PosRank" data-stat="fantasy_rank_pos" scope="col" class=" poptip sort_default_asc center" data-tip="The players fantasy rank within his position" >PosRank</th>
+         <th aria-label="OvRank" data-stat="fantasy_rank_overall" scope="col" class=" poptip sort_default_asc center" data-tip="The players overall fantasy rank (blank if the player was below the baseline)" >OvRank</th>
+         <th aria-label="games" data-stat="games" scope="col" class=" poptip center" ></th>
+      </tr>
+      </thead>
+<tbody><tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2013/fantasy.htm">2013</a></th><td class="right " data-stat="age" >21</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >90</td><td class="right iz" data-stat="vbd" ></td><td class="right " data-stat="fantasy_rank_pos" >52</td><td class="right iz" data-stat="fantasy_rank_overall" csk="10000" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2013/">All 2013 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2014/fantasy.htm">2014</a></th><td class="right " data-stat="age" >22</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >155</td><td class="right " data-stat="vbd" >33</td><td class="right " data-stat="fantasy_rank_pos" >15</td><td class="right " data-stat="fantasy_rank_overall" csk="42" >42</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2014/">All 2014 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2015/fantasy.htm">2015</a></th><td class="right " data-stat="age" >23</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >220</td><td class="right " data-stat="vbd" >92</td><td class="right " data-stat="fantasy_rank_pos" >6</td><td class="right " data-stat="fantasy_rank_overall" csk="10" >10</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2015/">All 2015 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2016/fantasy.htm">2016</a></th><td class="right " data-stat="age" >24</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >119</td><td class="right iz" data-stat="vbd" ></td><td class="right " data-stat="fantasy_rank_pos" >36</td><td class="right iz" data-stat="fantasy_rank_overall" csk="10000" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2016/">All 2016 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2017/fantasy.htm">2017</a></th><td class="right " data-stat="age" >25</td><td class="right " data-stat="g" >15</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >214</td><td class="right " data-stat="vbd" >103</td><td class="right " data-stat="fantasy_rank_pos" >1</td><td class="right " data-stat="fantasy_rank_overall" csk="6" >6</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2017/">All 2017 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2018/fantasy.htm">2018</a></th><td class="right " data-stat="age" >26</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >219</td><td class="right " data-stat="vbd" >102</td><td class="right " data-stat="fantasy_rank_pos" >4</td><td class="right " data-stat="fantasy_rank_overall" csk="11" >11</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2018/">All 2018 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2019/fantasy.htm">2019</a></th><td class="right " data-stat="age" >27</td><td class="right " data-stat="g" >15</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >165</td><td class="right " data-stat="vbd" >35</td><td class="right " data-stat="fantasy_rank_pos" >10</td><td class="right " data-stat="fantasy_rank_overall" csk="35" >35</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2019/">All 2019 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2020/fantasy.htm">2020</a></th><td class="right " data-stat="age" >28</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >173</td><td class="right " data-stat="vbd" >46</td><td class="right " data-stat="fantasy_rank_pos" >10</td><td class="right " data-stat="fantasy_rank_overall" csk="33" >33</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2020/">All 2020 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2021/fantasy.htm">2021</a></th><td class="right " data-stat="age" >29</td><td class="right " data-stat="g" >10</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >105</td><td class="right iz" data-stat="vbd" ></td><td class="right " data-stat="fantasy_rank_pos" >39</td><td class="right iz" data-stat="fantasy_rank_overall" csk="10000" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2021/">All 2021 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2022/fantasy.htm">2022</a></th><td class="right " data-stat="age" >30</td><td class="right " data-stat="g" >9</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >88</td><td class="right iz" data-stat="vbd" ></td><td class="right " data-stat="fantasy_rank_pos" >49</td><td class="right iz" data-stat="fantasy_rank_overall" csk="10000" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2022/">All 2022 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2023/fantasy.htm">2023</a></th><td class="right " data-stat="age" >31</td><td class="right " data-stat="g" >17</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >149</td><td class="right " data-stat="vbd" >18</td><td class="right " data-stat="fantasy_rank_pos" >20</td><td class="right " data-stat="fantasy_rank_overall" csk="49" >49</td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2023/">All 2023 Games</a></td></tr>
+<tr class="full_table" ><th scope="row" class="left " data-stat="year_id" ><a href="/years/2024/fantasy.htm">2024</a></th><td class="right " data-stat="age" >32</td><td class="right " data-stat="g" >16</td><td class="right " data-stat="fantasy_pos" >WR</td><td class="right " data-stat="fantasy_points" >91</td><td class="right iz" data-stat="vbd" ></td><td class="right " data-stat="fantasy_rank_pos" >50</td><td class="right iz" data-stat="fantasy_rank_overall" csk="10000" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/2024/">All 2024 Games</a></td></tr>
+</tbody><tfoot><tr ><th scope="row" class="left iz" data-stat="year_id" ></th><td class="right iz" data-stat="age" ></td><td class="right iz" data-stat="g" ></td><td class="right iz" data-stat="fantasy_pos" ></td><td class="right " data-stat="fantasy_points" >1788</td><td class="right iz" data-stat="vbd" ></td><td class="right iz" data-stat="fantasy_rank_pos" ></td><td class="right iz" data-stat="fantasy_rank_overall" ></td><td class="right " data-stat="games" ><a href="/players/H/HopkDe00/fantasy/">Career Summary</a></td></tr>
+
+   </tfoot>
+
+</table>
+
+
+</div>
+<div class="footer no_hide_long" id="tfooter_fantasy">
+
+<strong>More:</strong>  <a href="https://stathead.com/football/player-game-finder.cgi?request=1&player_id=HopkDe00&utm_campaign=2023_07_lnk_player_fantasy_stathead&utm_source=pfr&utm_medium=sr_xsite">All DeAndre Hopkins games, sorted by Fantasy Points</a> (via Stathead)</div>
+
+--- End Comment ---
+
+
+
+--- Comment 44 ---
+
+fs_btf_3
+
+--- End Comment ---
+
+
+
+--- Comment 45 ---
+
+div#fs_fs_btf_3
+
+--- End Comment ---
+
+
+
+--- Comment 46 ---
+
+/div.#fs_fs_btf_3
+
+--- End Comment ---
+
+
+
+--- Comment 47 ---
+
+<div class="table_container" id="div_sim_scores">
+    
+    <table class="stats_table" id="sim_scores" data-cols-to-freeze=",1">
+    <caption>Similar Players Table</caption>
+    
+
+   <colgroup><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="NumYrs" data-stat="thru_years" scope="col" class=" poptip show_partial_when_sorting center" data-tip="<b>Number of years considered at the start of the players career</b>.<br>For example, in the 4 row, you would find players whose first four years were similar to this players first four years" >NumYrs</th>
+         <th aria-label="Players whose career was of similar quality and shape" data-stat="similars" scope="col" class=" poptip show_partial_when_sorting center" data-tip="Note that these players might not be of similar <i>style</i>, but they have had careers of similar length and quality.<br>Please click the link above this table for a description of how we computed these and how they should be interpreted.<br>An asterisk denotes a Hall-of-Famer." >Players whose career was of similar quality and shape</th>
+      </tr>
+      </thead>
+<tbody><tr ><th scope="row" class="right " data-stat="thru_years" csk="3" >3</th><td class="left " data-stat="similars" ><a href="/players/B/BrowEd00.htm">Eddie Brown</a>, <a href="/players/R/RobiKo00.htm">Koren Robinson</a>, <a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/C/CookBr00.htm">Brandin Cooks</a>, <a href="/players/B/BoldAn00.htm">Anquan Boldin</a>, <a href="/players/M/MorgSt00.htm">Stanley Morgan</a>, <a href="/players/C/ColsMa00.htm">Marques Colston</a>, <a href="/players/O/OwenTe00.htm">Terrell Owens</a>*, <a href="/players/J/JennGr00.htm">Greg Jennings</a>, <a href="/players/J/JoneJu02.htm">Julio Jones</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="4" >4</th><td class="left " data-stat="similars" ><a href="/players/J/JohnCa00.htm">Calvin Johnson</a>*, <a href="/players/O/OwenTe00.htm">Terrell Owens</a>*, <a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/M/MartEr00.htm">Eric Martin</a>, <a href="/players/S/ShanRo00.htm">Ron Shanklin</a>, <a href="/players/E/EvanLe00.htm">Lee Evans</a>, <a href="/players/B/BoldAn00.htm">Anquan Boldin</a>, <a href="/players/W/WhitSa00.htm">Sammy White</a>, <a href="/players/S/ScotJa00.htm">James Scott</a>, <a href="/players/H/HarpAl00.htm">Alvin Harper</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="5" >5</th><td class="left " data-stat="similars" ><a href="/players/B/BoldAn00.htm">Anquan Boldin</a>, <a href="/players/M/MartEr00.htm">Eric Martin</a>, <a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/T/ToonAl00.htm">Al Toon</a>, <a href="/players/E/EvanMi00.htm">Mike Evans</a>, <a href="/players/J/JohnAn02.htm">Andre Johnson</a>*, <a href="/players/J/JackDa00.htm">Darrell Jackson</a>, <a href="/players/E/EvanLe00.htm">Lee Evans</a>, <a href="/players/C/ClarGa00.htm">Gary Clark</a>, <a href="/players/D/DubeEl00.htm">Elbert Dubenion</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="6" >6</th><td class="left " data-stat="similars" ><a href="/players/B/BoldAn00.htm">Anquan Boldin</a>, <a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/C/ClarGa00.htm">Gary Clark</a>, <a href="/players/T/ToonAl00.htm">Al Toon</a>, <a href="/players/J/JackDe00.htm">DeSean Jackson</a>, <a href="/players/M/MorgSt00.htm">Stanley Morgan</a>, <a href="/players/J/JohnAn02.htm">Andre Johnson</a>*, <a href="/players/F/FitzLa00.htm">Larry Fitzgerald</a>, <a href="/players/J/JeffJo00.htm">John Jefferson</a>, <a href="/players/M/MartEr00.htm">Eric Martin</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="7" >7</th><td class="left " data-stat="similars" ><a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/B/BoldAn00.htm">Anquan Boldin</a>, <a href="/players/T/ToonAl00.htm">Al Toon</a>, <a href="/players/J/JackDe00.htm">DeSean Jackson</a>, <a href="/players/C/CollCr00.htm">Cris Collinsworth</a>, <a href="/players/R/RisoAn00.htm">Andre Rison</a>, <a href="/players/B/BurrPl00.htm">Plaxico Burress</a>, <a href="/players/C/CookBr00.htm">Brandin Cooks</a>, <a href="/players/W/WardHi00.htm">Hines Ward</a>, <a href="/players/C/ColsMa00.htm">Marques Colston</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="8" >8</th><td class="left " data-stat="similars" ><a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/B/BurrPl00.htm">Plaxico Burress</a>, <a href="/players/J/JohnKe00.htm">Keyshawn Johnson</a>, <a href="/players/G/GreeA.00.htm">A.J. Green</a>, <a href="/players/P/PearDr00.htm">Drew Pearson</a>*, <a href="/players/W/WardHi00.htm">Hines Ward</a>, <a href="/players/F/FitzLa00.htm">Larry Fitzgerald</a>, <a href="/players/J/JennGr00.htm">Greg Jennings</a>, <a href="/players/L/LargSt00.htm">Steve Largent</a>*, <a href="/players/C/ClarGa00.htm">Gary Clark</a></td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="9" >9</th><td class="left " data-stat="similars" ><a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/B/BurrPl00.htm">Plaxico Burress</a>, <a href="/players/R/RisoAn00.htm">Andre Rison</a>, <a href="/players/J/JohnKe00.htm">Keyshawn Johnson</a>, <a href="/players/P/PearDr00.htm">Drew Pearson</a>*, <a href="/players/F/FitzLa00.htm">Larry Fitzgerald</a>, <a href="/players/J/JennGr00.htm">Greg Jennings</a>, <a href="/players/W/WardHi00.htm">Hines Ward</a>, <a href="/players/M/MarsBr00.htm">Brandon Marshall</a>, <a href="/players/B/BileFr00.htm">Fred Biletnikoff</a>*</td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="10" >10</th><td class="left " data-stat="similars" ><a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/R/RisoAn00.htm">Andre Rison</a>, <a href="/players/J/JohnKe00.htm">Keyshawn Johnson</a>, <a href="/players/P/PearDr00.htm">Drew Pearson</a>*, <a href="/players/F/FitzLa00.htm">Larry Fitzgerald</a>, <a href="/players/M/MorgSt00.htm">Stanley Morgan</a>, <a href="/players/B/BurrPl00.htm">Plaxico Burress</a>, <a href="/players/W/WardHi00.htm">Hines Ward</a>, <a href="/players/G/GreeA.00.htm">A.J. Green</a>, <a href="/players/B/BileFr00.htm">Fred Biletnikoff</a>*</td></tr>
+<tr ><th scope="row" class="right " data-stat="thru_years" csk="99" >Career</th><td class="left " data-stat="similars" ><a href="/players/B/BurrPl00.htm">Plaxico Burress</a>, <a href="/players/T/TaylCh00.htm">Charley Taylor</a>*, <a href="/players/M/MillAn00.htm">Anthony Miller</a>, <a href="/players/H/HillTo00.htm">Tony Hill</a>, <a href="/players/C/ClarGa00.htm">Gary Clark</a>, <a href="/players/J/JohnCa00.htm">Calvin Johnson</a>*, <a href="/players/J/JennGr00.htm">Greg Jennings</a>, <a href="/players/C/ColeLa00.htm">Laveranues Coles</a>, <a href="/players/R/RisoAn00.htm">Andre Rison</a>, <a href="/players/G/GarrGa00.htm">Gary Garrison</a></td></tr>
+
+</table>
+
+
+</div>
+
+--- End Comment ---
+
+
+
+--- Comment 48 ---
+
+<div class="data_grid" id="div_leaderboard" data-entry-type="Leaderboards">
+<div id="leaderboard_awards" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="">Awards</caption>		<tr class="">			<td class="single"><a href="/awards/nfl-all-rookie-2013.htm">2013 NFL All-Rookie Team</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2016-nfl-top-100.htm">2016 NFL Top 100 (#19)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2018-nfl-top-100.htm">2018 NFL Top 100 (#13)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2019-nfl-top-100.htm">2019 NFL Top 100 (#11)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2020-nfl-top-100.htm">2020 NFL Top 100 (#8)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2021-nfl-top-100.htm">2021 NFL Top 100 (#8)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2022-nfl-top-100.htm">2022 NFL Top 100 (#37)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/2023-nfl-top-100.htm">2023 NFL Top 100 (#90)</a></td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_awards'),'show_all')">8 Awards</button>
+</div>
+
+<div id="leaderboard_apopoy_shares" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="">AP OPOY Shares</caption>		<tr class="">			<td class="single"><a href="/awards/awards_2017.htm">2017 AP Off. PoY</a> .02 (4)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/awards/awards_2018.htm">2018 AP Off. PoY</a> .04 (3)</a></td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/leaders/apopoy_share_career.htm">Career AP Off. PoY</a> .06 (96)</a></td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_apopoy_shares'),'show_all')">3 OPOY Shares</button>
+</div>
+
+<div id="leaderboard_pro_bowls" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="">Pro Bowls</caption>		<tr class="">			<td class="single"><a href="/years/2015/probowl.htm">2015</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/probowl.htm">2017</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/probowl.htm">2018</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2019/probowl.htm">2019</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/probowl.htm">2020</a>
+</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_pro_bowls'),'show_all')">5 Pro Bowls</button>
+</div>
+
+<div id="leaderboard_all_pro" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="">First Team All-Pro</caption>		<tr class="">			<td class="single"><a href="/years/2017/allpro.htm">2017</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/allpro.htm">2018</a>
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2019/allpro.htm">2019</a>
+</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_all_pro'),'show_all')">3 First Team All-Pro</button>
+</div>
+
+<div id="leaderboard_potw" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="">Player of the Week</caption>		<tr class="">			<td class="single"><a href="/years/2020/week_10.htm">2020 - Week 10</a> NFC Offensive
+</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2015/week_6.htm">2015 - Week 6</a> AFC Offensive
+</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_potw'),'show_all')">2 Player of the Week</button>
+</div>
+
+<div id="leaderboard_rec" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Receptions">Receptions</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 111 (3/<a href="/leaders/rec_single_season.htm">51</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 96 (6)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 115 (3/<a href="/leaders/rec_single_season.htm">30</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2019/leaders.htm">2019 NFL</a> 104 (3)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 115 (2/<a href="/leaders/rec_single_season.htm">30</a>)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_active.htm">Active</a> 984 (2)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_career.htm">Career</a> 984 (16)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_rec'),'show_all')">5 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_rec_yds" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Receiving Yards">Receiving Yds</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 1521 (3/<a href="/leaders/rec_yds_single_season.htm">50</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 1378 (4)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 1572 (2/<a href="/leaders/rec_yds_single_season.htm">35</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 1407 (3)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_yds_active.htm">Active</a> 12965 (2)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_yds_career.htm">Career</a> 12965 (21)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_rec_yds'),'show_all')">4 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_rec_td" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Receiving Touchdowns">Receiving TD</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 11 (7)</td>
+		</tr>
+				<tr class="first_place">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 13 (1/<a href="/leaders/rec_td_single_season.htm">66</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 11 (5)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_td_active.htm">Active</a> 83 (4)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_td_career.htm">Career</a> 83 (26)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_rec_td'),'show_all')">3 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_rec_yds_per_rec" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Receiving Yards per Reception<br>Minimum 1.875 catches per game scheduled to qualify as leader.<br />Minimum 200 receptions to qualify as career leader.">Yds/Reception</caption>		<tr class="only-child">			<td class="single"><a href="/years/2014/leaders.htm">2014 NFL</a> 15.9 (8)</td>
+		</tr>
+			</table>
+</div>
+
+<div id="leaderboard_rec_yds_per_g" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Receiving Yards per Game<br>(minimum half a game played per game scheduled to qualify as leader, 32 games for career leaders)<br>(Receiving Yards)/(Games Played)">Receiving Yds/Game</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 95.1 (4/<a href="/leaders/rec_yds_per_g_single_season.htm">81</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 91.9 (2)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 98.3 (2/<a href="/leaders/rec_yds_per_g_single_season.htm">61</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2019/leaders.htm">2019 NFL</a> 77.7 (8)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 87.9 (5)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2022/leaders.htm">2022 NFL</a> 79.7 (10)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_yds_per_g_active.htm">Active</a> 72.8 (13)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rec_yds_per_g_career.htm">Career</a> 72.8 (21)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_rec_yds_per_g'),'show_all')">6 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_all_td_no_other" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Touchdowns of every type">Touchdowns</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 11 (10)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 13 (3)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/all_td_no_other_active.htm">Active</a> 83 (8)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/all_td_no_other_career.htm">Career</a> 83 (64)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_all_td_no_other'),'show_all')">2 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_rush_receive_td" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Rushing and Receiving Touchdowns">Rushing/Receiving TD</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 11 (10)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2017/leaders.htm">2017 NFL</a> 13 (2)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rush_receive_td_active.htm">Active</a> 83 (8)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/rush_receive_td_career.htm">Career</a> 83 (59)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_rush_receive_td'),'show_all')">2 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_two_pt_md" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Two-Point Conversions Made">2-pt. Conv. Made</caption>		<tr class="career">			<td class="single"><a href="/leaders/two_pt_md_career.htm">Career</a> 2 (133)</td>
+		</tr>
+			</table>
+</div>
+
+<div id="leaderboard_yds_from_scrimmage" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Yards from Scrimmage: Receiving and Rushing Yards">Yds From Scrimmage</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 1521 (6)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 1565 (8)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 1408 (10)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/yds_from_scrimmage_active.htm">Active</a> 12986 (3)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/yds_from_scrimmage_career.htm">Career</a> 12986 (53)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_yds_from_scrimmage'),'show_all')">3 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_all_purpose_yds" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="All-purpose yards: Rushing, Receiving and Kick, Punt, Interception, and Fumble Return Yardage">All-Purpose Yds</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 1521 (10)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 1408 (10)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/all_purpose_yds_active.htm">Active</a> 12986 (6)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/all_purpose_yds_career.htm">Career</a> 12986 (78)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_all_purpose_yds'),'show_all')">2 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_touches" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Touches: Rushing Attempts and Receptions">Touches</caption>		<tr class="career">			<td class="single"><a href="/leaders/touches_active.htm">Active</a> 990 (30)</td>
+		</tr>
+			</table>
+</div>
+
+<div id="leaderboard_yds_per_touch" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Scrimmage yards per touch: Rushing + Receiving Yardage per opportunity<br>Minimum 6.25 touches per scheduled game to qualify as leader.<br />Minimum 750 touches to qualify as career leader.">Yds/Touch</caption>		<tr class="">			<td class="single"><a href="/years/2015/leaders.htm">2015 NFL</a> 13.7 (3/<a href="/leaders/yds_per_touch_single_season.htm">42</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2018/leaders.htm">2018 NFL</a> 13.5 (3/<a href="/leaders/yds_per_touch_single_season.htm">48</a>)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2019/leaders.htm">2019 NFL</a> 11.2 (5)</td>
+		</tr>
+				<tr class="">			<td class="single"><a href="/years/2020/leaders.htm">2020 NFL</a> 12.1 (3)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/yds_per_touch_active.htm">Active</a> 13.1 (3)</td>
+		</tr>
+				<tr class="career">			<td class="single"><a href="/leaders/yds_per_touch_career.htm">Career</a> 13.1 (27)</td>
+		</tr>
+			</table>
+	<button onclick="vjs_addClass(document.getElementById('leaderboard_yds_per_touch'),'show_all')">4 Seasons in Top 10</button>
+</div>
+
+<div id="leaderboard_gs" class="data_grid_box">
+	<table class="no_columns">
+		<caption class="poptip" data-tip="Games started as an offensive or defensive player">Games Started</caption>		<tr class="career">			<td class="single"><a href="/leaders/gs_active.htm">Active</a> 169 (24)</td>
+		</tr>
+			</table>
+</div>
+
+	</div>
+
+--- End Comment ---
+
+
+
+--- Comment 49 ---
+
+<div class="table_container" id="div_all_pro">
+    
+    <table class="sortable stats_table" id="all_pro" data-cols-to-freeze=",1">
+    <caption>All-Pro Teams Table</caption>
+    
+
+   <colgroup><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="year" data-stat="year" scope="col" class=" poptip center" >Year</th>
+         <th aria-label="Tm" data-stat="team" scope="col" class=" poptip sort_default_asc show_partial_when_sorting left" >Tm</th>
+         <th aria-label="level" data-stat="level" scope="col" class=" poptip center" >Level</th>
+         <th aria-label="Pos" data-stat="pos" scope="col" class=" poptip sort_default_asc left" data-tip="Position" >Pos</th>
+         <th aria-label="voters" data-stat="voters" scope="col" class=" poptip center" >Voters</th>
+      </tr>
+      </thead>
+<tbody><tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2015/allpro.htm">2015</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right " data-stat="level" >All-Conf.</td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2015/allpro.htm">2015</a></th><td class="left " data-stat="team" >2nd Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Associated Press</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2015/allpro.htm">2015</a></th><td class="left " data-stat="team" >2nd Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Focus</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2017/allpro.htm">2017</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right " data-stat="level" >All-Conf.</td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2017/allpro.htm">2017</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Associated Press</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2017/allpro.htm">2017</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2017/allpro.htm">2017</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >FLEX</td><td class="left " data-stat="voters" >Pro Football Focus</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2018/allpro.htm">2018</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right " data-stat="level" >All-Conf.</td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2018/allpro.htm">2018</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Associated Press</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2018/allpro.htm">2018</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2018/allpro.htm">2018</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Focus</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2018/allpro.htm">2018</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Sporting News</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2019/allpro.htm">2019</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right " data-stat="level" >All-Conf.</td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2019/allpro.htm">2019</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Associated Press</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2019/allpro.htm">2019</a></th><td class="left " data-stat="team" >2nd Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Focus</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2019/allpro.htm">2019</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Sporting News</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2020/allpro.htm">2020</a></th><td class="left " data-stat="team" >1st Tm</td><td class="right " data-stat="level" >All-Conf.</td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Pro Football Writers</td></tr>
+<tr ><th scope="row" class="right " data-stat="year" ><a href="/years/2020/allpro.htm">2020</a></th><td class="left " data-stat="team" >2nd Tm</td><td class="right iz" data-stat="level" ></td><td class="left " data-stat="pos" >WR</td><td class="left " data-stat="voters" >Associated Press</td></tr>
+
+</table>
+
+
+</div>
+
+--- End Comment ---
+
+
+
+--- Comment 50 ---
+
+<div class="table_container" id="div_combine">
+    
+    <table class="sortable stats_table" id="combine" data-cols-to-freeze=",1">
+    <caption>Combine Measurements Table</caption>
+    
+
+   <colgroup><col><col><col><col><col><col><col><col><col><col></colgroup>
+   <thead>      
+      <tr>
+         <th aria-label="Year" data-stat="year_id" scope="col" class=" poptip sort_default_asc left" >Year</th>
+         <th aria-label="Pos" data-stat="pos" scope="col" class=" poptip sort_default_asc left" data-tip="Position" >Pos</th>
+         <th aria-label="Ht" data-stat="height" scope="col" class=" poptip show_partial_when_sorting center" data-tip="<b>Height (ft-inches)</b>" >Ht</th>
+         <th aria-label="Weight" data-stat="weight" scope="col" class=" poptip show_partial_when_sorting center" data-tip="<b>Weight in Pounds</b>" >Wt</th>
+         <th aria-label="40yd" data-stat="forty_yd" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="Forty yard dash time" >40yd</th>
+         <th aria-label="Bench" data-stat="bench_reps" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="225 lb bench press reps" >Bench</th>
+         <th aria-label="Broad Jump" data-stat="broad_jump" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="Broad jump distance, in inches" >Broad Jump</th>
+         <th aria-label="Shuttle" data-stat="shuttle" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="20 yard shuttle time" >Shuttle</th>
+         <th aria-label="3Cone" data-stat="cone" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="Three cone drill time" >3Cone</th>
+         <th aria-label="Vertical" data-stat="vertical" scope="col" class=" poptip sort_default_asc show_partial_when_sorting center" data-tip="Vertical jump height, in inches" >Vertical</th>
+      </tr>
+      </thead>
+<tbody><tr ><th scope="row" class="left " data-stat="year_id" ><a href="/draft/2013-combine.htm">2013</a></th><td class="left " data-stat="pos" >WR</td><td class="right " data-stat="height" >73</td><td class="right " data-stat="weight" >214</td><td class="right " data-stat="forty_yd" >4.57</td><td class="right " data-stat="bench_reps" >15</td><td class="right " data-stat="broad_jump" >115</td><td class="right " data-stat="shuttle" >4.50</td><td class="right iz" data-stat="cone" ></td><td class="right " data-stat="vertical" >36.0</td></tr>
+
+</table>
+
+
+</div>
+
+--- End Comment ---
+
+
+
+--- Comment 51 ---
+
+<div class="section_content" id="div_transactions">
+	    <p><strong>March 16, 2020</strong>: Traded by <a href="/teams/htx/2020.htm">Texans</a> with 2020 4th round pick (131st overall, <a href="https://www.pro-football-reference.com/players/L/LawrRa01.htm">Rashard Lawrence</a>) to <a href="/teams/crd/2020.htm">Cardinals</a> for 2020 2nd round pick (40th overall, <a href="https://www.pro-football-reference.com/players/B/BlacRo00.htm">Ross Blacklock</a>), 2021 4th round pick (122nd overall subsequently traded, <a href="https://www.pro-football-reference.com/players/S/ShelTy00.htm">Tyler Shelvin</a>) and <a href="https://www.pro-football-reference.com/players/J/JohnDa08.htm">David Johnson</a></p><p><strong>October 23, 2024</strong>: Traded by <a href="/teams/oti/2024.htm">Titans</a> to <a href="/teams/kan/2024.htm">Chiefs</a> for a 2025 5th round pick (would have converted to 4th round if Hopkins plays 60% of snaps and Chiefs reach Super Bowl) </p>
+		
+    </div>
+
+--- End Comment ---
+
+
+
+--- Comment 52 ---
+
+<div class="section_content" id="div_transactions">
+	    <ul class="transactions news_stories"><li><strong>March 11, 2025:</strong> The <a href="/teams/rav/2025.htm">Baltimore Ravens</a> signed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a>.</li><li><strong>March 10, 2025:</strong> WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> elected free agency.</li><li><strong>October 23, 2024:</strong> The <a href="/teams/oti/2024.htm">Tennessee Titans</a> traded WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> to the <a href="/teams/kan/2024.htm">Kansas City Chiefs</a>.</li><li><strong>July 16, 2023:</strong> The <a href="/teams/oti/2023.htm">Tennessee Titans</a> signed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a>.</li><li><strong>May 26, 2023:</strong> The <a href="/teams/crd/2023.htm">Arizona Cardinals</a> released WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a>.</li>        <li id="transactions_toggler" class="tooltip toggler" data-type="hide_after" data-selector=".transactions.more">Show 11 more transactions</li>
+     </ul>
+     <ul class="transactions news_stories more"><li><strong>October 17, 2022:</strong> WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> was reinstated from suspension.</li><li><strong>December 18, 2021:</strong> The <a href="/teams/crd/2021.htm"><a href="/teams/crd/2021.htm">Arizona Cardinals</a></a> placed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> on IR.</li><li><strong>March 20, 2020:</strong> The <a href="/teams/htx/2020.htm">Houston Texans</a> traded WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> to the <a href="/teams/crd/2020.htm">Arizona Cardinals</a>.</li><li><strong>July 26, 2019:</strong> Passed Physical</li><li><strong>July 21, 2019:</strong> The <a href="/teams/htx/2019.htm"><a href="/teams/htx/2019.htm">Houston Texans</a></a> placed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> on the PUP list.</li><li><strong>January 3, 2018:</strong> The <a href="/teams/htx/2018.htm"><a href="/teams/htx/2018.htm">Houston Texans</a></a> activated WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a>.</li><li><strong>December 31, 2017:</strong> De-Activated</li><li><strong>September 1, 2017:</strong> The <a href="/teams/htx/2017.htm"><a href="/teams/htx/2017.htm">Houston Texans</a></a> re-signed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a>.</li><li><strong>July 31, 2016:</strong> WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> was reinstated from suspension.</li><li><strong>July 30, 2016:</strong> The <a href="/teams/htx/2016.htm"><a href="/teams/htx/2016.htm">Houston Texans</a></a> placed WR <a href="/players/H/HopkDe00.htm">DeAndre Hopkins</a> on IR.</li><li><strong>July 22, 2013:</strong> Selection List Signing</li>
+</ul>
+		
+    </div>
+
+--- End Comment ---
+
+
+
+--- Comment 53 ---
+
+global.nonempty_tables_num: 19, table_count: 19
+
+--- End Comment ---
+
+
+
+--- Comment 54 ---
+
+no Local/Partials/NoteBottom.tt2
+
+--- End Comment ---
+
+
+
+--- Comment 55 ---
+
+fs_footer
+
+--- End Comment ---
+
+
+
+--- Comment 56 ---
+
+div#fs_fs_footer
+
+--- End Comment ---
+
+
+
+--- Comment 57 ---
+
+/div.#fs_fs_footer
+
+--- End Comment ---
+
+
+
+--- Comment 58 ---
+
+div#content
+
+--- End Comment ---
+
+
+
+--- Comment 59 ---
+
+div#footer_header
+
+--- End Comment ---
+
+
+
+--- Comment 60 ---
+
+div#site_menu
+
+--- End Comment ---
+
+
+
+--- Comment 61 ---
+
+div#social
+
+--- End Comment ---
+
+
+
+--- Comment 62 ---
+
+div#tips_tricks
+
+--- End Comment ---
+
+
+
+--- Comment 63 ---
+
+div#credits
+
+--- End Comment ---
+
+
+
+--- Comment 64 ---
+
+div#about
+
+--- End Comment ---
+
+
+
+--- Comment 65 ---
+
+div#footer
+
+--- End Comment ---
+
+
+
+--- Comment 66 ---
+
+div#wrap
+
+--- End Comment ---
+
+
+
+--- Comment 67 ---
+
+yes sticky url:  https://www.pro-football-reference.com/players/H/HopkDe00.htm
+
+--- End Comment ---
+
+
+
+--- Comment 68 ---
+
+rails
+
+--- End Comment ---
+
+
+
+--- Comment 69 ---
+
+div#fs_fs_rails_left
+
+--- End Comment ---
+
+
+
+--- Comment 70 ---
+
+/div.#fs_fs_rails_left
+
+--- End Comment ---
+
+
+
+--- Comment 71 ---
+
+div#fs_fs_rails_right
+
+--- End Comment ---
+
+
+
+--- Comment 72 ---
+
+/div.#fs_fs_rails_right
+
+--- End Comment ---
+
+
+
+--- Comment 73 ---
+
+sr_gender is used in Templates/Assets/GoogleAnalytics.tt2
+
+--- End Comment ---
+
+
+
+--- Comment 74 ---
+
+Google Analytics
+
+--- End Comment ---
+
+
+
+--- Comment 75 ---
+
+Google Analytics UA,  UA-1890630-3
+
+--- End Comment ---
+
+
+
+--- Comment 76 ---
+
+Google Analytics GA4, G-EMBDG7RM0K
+
+--- End Comment ---
+
+
+
+--- Comment 77 ---
+
+Google Tag Manager
+
+--- End Comment ---
+
+
+
+--- Comment 78 ---
+
+End Google Tag Manager
+
+--- End Comment ---
+
+
+
+--- Comment 79 ---
+
+Google Tag Manager (noscript)
+
+--- End Comment ---
+
+
+
+--- Comment 80 ---
+
+End Google Tag Manager (noscript)
+
+--- End Comment ---
+
+
+
+--- Comment 81 ---
+
+End Google Analytics
+
+--- End Comment ---
+
+
+
+--- Comment 82 ---
+
+Start of HubSpot Embed Code
+
+--- End Comment ---
+
+
+
+--- Comment 83 ---
+
+End of HubSpot Embed Code
+
+--- End Comment ---
+
+
+
+--- Comment 84 ---
+
+SR
+
+--- End Comment ---
+
