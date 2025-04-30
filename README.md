@@ -26,26 +26,39 @@ This project scrapes wide receiver draft data from Pro-Football-Reference for th
 - Some draft tables are inside HTML comments.
 - Not all rows have complete data.
 
-## ✅ Success Criteria for WRs
+## 📋 Success Criteria (Binary Pass/Fail)
 
-To determine whether a WR is considered "successful," we will use the following criteria, which are based on both availability and production:
+| Metric            | Threshold                              |
+|------------------|-----------------------------------------|
+| Career AV        | ≥ 40                                 |
+| Games Played     | ≥ 80                                 |
+| Pro Bowls        | ≥ 2 selections                       |
+| All-Pro          | ≥ 1 selection                        |
+| OPOY             | Has won the award                      |
+| Fantasy Rank     | ≥ 2 seasons ranked WR30 or better    |
+| Fantasy Points   | ≥ 2 seasons with 180+ points         |
 
-- **Career AV ≥ 15** (weight: 40%) — Signals substantial contribution over time.
-- **Second contract signed with the same or another NFL team** (weight: 30%) — Indicates perceived value by the league.
-- **Total games played ≥ 48 (3 seasons)** (weight: 15%) — Suggests baseline durability and availability.
-- **Seasons with 500+ receiving yards ≥ 2** (weight: 15%) — Indicates real, repeatable production.
+## 🎯 Weighted Success Score
 
-Scoring will be additive. Players who exceed thresholds will score points toward an overall "success score" out of 100. We may refine thresholds or introduce additional variables (e.g., yards per route run, team context, breakout age) if supported by available data.
+| Component                         | Rule                                  | Max Points |
+|----------------------------------|---------------------------------------|------------|
+| **Career AV**                    | 1 point per AV, capped at 40          | 40         |
+| **Games Played**                 | 0.5 point per game, capped at 80 GP   | 40         |
+| **Pro Bowls**                    | 5 points each, max of 2 counted       | 10         |
+| **All-Pro Selections**           | 10 points for 1 selection             | 10         |
+| **Offensive Player of the Year** | 10 points if won                      | 10         |
+| **Fantasy Seasons (Top 30)**     | 2 points per season, max 2 counted    | 4          |
+| **Fantasy Seasons (180+ pts)**   | 2 points per season, max 2 counted    | 4          |
 
-This system is intentionally conservative to prioritize reliability and versatility over single-season anomalies.
-
-## 📋 Next Steps
+## 🧩 Next Steps
 
 - Fix parsing to handle missing/hidden data more gracefully.
 - Add analysis notebook to classify "successful" WRs by various metrics.
 - Build a predictive model for the current WR draft class.
+- Expand scraper to pull all metrics needed for binary and weighted success models.
 
 ---
 
 Yes, this is weirdly ambitious. Yes, we know.
+
 
