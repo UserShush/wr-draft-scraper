@@ -1,0 +1,320 @@
+Year,Player,Player_ID,College,Pick,Round,Team,Career_AV,Games_Played,Note,Career_Yards,Career_TDs,Pro_Bowls,All_Pros,OPOY,Receptions,Receiving_Yards,Receiving_TDs,Rec/Game,Yards/Game,TD/Game,Successful
+2013,Tavon Austin,AustTa00,West Virginia,8,,STL,29.0,113.0,Parsed,,,0.0,0.0,False,244,2239,16,2.16,19.81,0.14,False
+2013,DeAndre Hopkins,HopkDe00,Clemson,27,,HOU,106.0,178.0,Parsed,,,5.0,3.0,False,984,12965,83,5.53,72.84,0.47,True
+2013,Cordarrelle Patterson,PattCo00,Tennessee,29,,MIN,,,Parsed,,,4.0,4.0,False,,,,,,,
+2013,Justin Hunter,HuntJu00,Tennessee,34,,TEN,10.0,60.0,Parsed,,,0.0,0.0,False,85,1349,13,1.42,22.48,0.22,False
+2013,Robert Woods,WoodRo02,USC,41,,BUF,74.0,171.0,Parsed,,,0.0,0.0,False,683,8233,38,3.99,48.15,0.22,True
+2013,Aaron Dobson,DobsAa00,Marshall,59,,NWE,6.0,24.0,Parsed,,,0.0,0.0,False,53,698,4,2.21,29.08,0.17,False
+2013,Terrance Williams,WillTe01,Baylor,74,,DAL,30.0,83.0,Parsed,,,0.0,0.0,False,232,3377,20,2.8,40.69,0.24,False
+2013,Keenan Allen,AlleKe00,California,76,,SDG,97.0,154.0,Parsed,,,6.0,0.0,False,974,11274,66,6.32,73.21,0.43,True
+2013,Marquise Goodwin,GoodMa00,Texas,78,,BUF,27.0,114.0,Parsed,,,0.0,0.0,False,191,3090,18,1.68,27.11,0.16,False
+2013,Markus Wheaton,WheaMa00,Oregon St.,79,,PIT,13.0,59.0,Parsed,,,0.0,0.0,False,110,1559,8,1.86,26.42,0.14,False
+2013,Stedman Bailey,BailSt01,West Virginia,92,,STL,7.0,38.0,Parsed,,,0.0,0.0,False,59,843,2,1.55,22.18,0.05,False
+2013,Ace Sanders,SandAc00,South Carolina,101,,JAX,3.0,27.0,Parsed,,,0.0,0.0,False,57,539,1,2.11,19.96,0.04,False
+2013,Josh Boyce,BoycJo00,TCU,102,,NWE,1.0,10.0,Parsed,,,0.0,0.0,False,9,121,0,0.9,12.1,0,False
+2013,Chris Harper,HarpCh00,Kansas St.,123,,SEA,,,Parsed,,,0.0,0.0,False,,,,,,,
+2013,Quinton Patton,PattQu00,Louisiana Tech,128,,SFO,6.0,40.0,Parsed,,,0.0,0.0,False,73,880,1,1.82,22.0,0.03,False
+2013,Denard Robinson,RobiDe00,Michigan,135,,JAX,,,Parsed,,,0.0,0.0,False,,,,,,,
+2013,Kenny Stills,StilKe00,Oklahoma,144,,NOR,40.0,130.0,Parsed,,,0.0,0.0,False,316,4911,38,2.43,37.78,0.29,True
+2013,Tavarres King,KingTa00,Georgia,161,,DEN,2.0,17.0,Parsed,,,0.0,0.0,False,22,303,3,1.29,17.82,0.18,False
+2013,Corey Fuller,FullCo00,Virginia Tech,171,,DET,3.0,28.0,Parsed,,,0.0,0.0,False,18,288,1,0.64,10.29,0.04,False
+2013,Ryan Swope,SwopRy00,Texas A&M,174,,ARI,,,Parsed,,,0.0,0.0,False,,,,,,,
+2013,Justin Brown,BrowJu00,Oklahoma,186,,PIT,1.0,8.0,Parsed,,,0.0,0.0,False,12,94,0,1.5,11.75,0,False
+2013,Alan Bonner,BonnAl00,Jacksonville St.,195,,HOU,,,Parsed,,,0.0,0.0,False,,,,,,,
+2013,Cobi Hamilton,HamiCo00,Arkansas,197,,CIN,2.0,14.0,Parsed,,,0.0,0.0,False,18,242,2,1.29,17.29,0.14,False
+2013,Brice Butler,ButlBr00,San Diego St.,209,,OAK,10.0,69.0,Parsed,,,0.0,0.0,False,79,1237,9,1.14,17.93,0.13,False
+2013,Charles Johnson,JohnCh08,Grand Valley St.,216,,GNB,7.0,39.0,Parsed,,,0.0,0.0,False,60,834,2,1.54,21.38,0.05,False
+2013,Kevin Dorsey,DorsKe01,Maryland,224,,GNB,0.0,3.0,Parsed,,,0.0,0.0,False,1,4,0,0.33,1.33,0,False
+2013,Marquess Wilson,WilsMa02,Washington St.,236,,CHI,6.0,31.0,Parsed,,,0.0,0.0,False,56,777,3,1.81,25.06,0.1,False
+2013,Aaron Mellette,MellAa00,Elon,238,,BAL,,,Parsed,,,0.0,0.0,False,,,,,,,
+2014,Sammy Watkins,WatkSa00,Clemson,4,,BUF,51.0,111.0,Parsed,,,0.0,0.0,False,364,5384,34,3.28,48.5,0.31,True
+2014,Mike Evans,EvanMi00,Texas A&M,7,,TAM,102.0,168.0,Parsed,,,6.0,0.0,False,836,12684,105,4.98,75.5,0.62,True
+2014,Odell Beckham Jr.,BeckOd00,LSU,12,,NYG,69.0,119.0,Parsed,,,3.0,0.0,False,575,7987,59,4.83,67.12,0.5,True
+2014,Brandin Cooks,CookBr00,Oregon St.,20,,NOR,88.0,158.0,Parsed,,,0.0,0.0,False,710,9532,60,4.49,60.33,0.38,True
+2014,Kelvin Benjamin,BenjKe00,Florida St.,28,,CAR,23.0,61.0,Parsed,,,0.0,0.0,False,209,3021,20,3.43,49.52,0.33,False
+2014,Marqise Lee,LeexMa00,USC,39,,JAX,18.0,59.0,Parsed,,,0.0,0.0,False,174,2184,8,2.95,37.02,0.14,False
+2014,Jordan Matthews,MattJo00,Vanderbilt,42,,PHI,25.0,81.0,Parsed,,,0.0,0.0,False,274,3288,22,3.38,40.59,0.27,False
+2014,Paul Richardson,RichPa01,Colorado,45,,SEA,15.0,64.0,Parsed,,,0.0,0.0,False,143,1809,12,2.23,28.27,0.19,False
+2014,Davante Adams,AdamDa01,Fresno St.,53,,GNB,111.0,164.0,Parsed,,,6.0,3.0,False,957,11844,103,5.84,72.22,0.63,True
+2014,Cody Latimer,LatiCo00,Indiana,56,,DEN,6.0,66.0,Parsed,,,0.0,0.0,False,70,935,6,1.06,14.17,0.09,False
+2014,Allen Robinson,RobiAl02,Penn St.,61,,JAX,55.0,139.0,Parsed,,,1.0,0.0,False,565,7058,43,4.06,50.78,0.31,True
+2014,Jarvis Landry,LandJa00,LSU,63,,MIA,67.0,132.0,Parsed,,,5.0,0.0,False,713,7870,38,5.4,59.62,0.29,True
+2014,Josh Huff,HuffJo00,Oregon,86,,PHI,6.0,37.0,Parsed,,,0.0,0.0,False,51,523,4,1.38,14.14,0.11,False
+2014,Donte Moncrief,MoncDo00,Mississippi,90,,IND,20.0,83.0,Parsed,,,0.0,0.0,False,205,2576,21,2.47,31.04,0.25,False
+2014,John Brown,BrowJo02,Pittsburg St.,91,,ARI,40.0,103.0,Parsed,,,0.0,0.0,False,321,4790,32,3.12,46.5,0.31,True
+2014,Dri Archer,ArchDr00,Kent St.,97,,PIT,,,Parsed,,,0.0,0.0,False,,,,,,,
+2014,Jalen Saunders,SaunJa00,Oklahoma,104,,NYJ,,15.0,Parsed,,,0.0,0.0,False,1,7,0,0.07,0.47,0,False
+2014,Bruce Ellington,ElliBr00,South Carolina,106,,SFO,7.0,44.0,Parsed,,,0.0,0.0,False,79,769,5,1.8,17.48,0.11,False
+2014,Shaquelle Evans,EvanSh00,UCLA,115,,NYJ,,,Parsed,,,0.0,0.0,False,,,,,,,
+2014,Martavis Bryant,BryaMa00,Clemson,118,,PIT,20.0,44.0,Parsed,,,0.0,0.0,False,145,2183,17,3.3,49.61,0.39,False
+2014,Kevin Norwood,NorwKe00,Alabama,123,,SEA,1.0,10.0,Parsed,,,0.0,0.0,False,9,102,0,0.9,10.2,0,False
+2014,Ryan Grant,GranRy01,Tulane,142,,WAS,10.0,80.0,Parsed,,,0.0,0.0,False,123,1333,7,1.54,16.66,0.09,False
+2014,Devin Street,StreDe00,Pittsburgh,146,,DAL,1.0,36.0,Parsed,,,0.0,0.0,False,10,152,1,0.28,4.22,0.03,False
+2014,Jared Abbrederis,AbbrJa00,Wisconsin,176,,GNB,1.0,22.0,Parsed,,,0.0,0.0,False,13,163,0,0.59,7.41,0,False
+2014,Robert Herron,HerrRo00,Wyoming,185,,TAM,0.0,8.0,Parsed,,,0.0,0.0,False,6,58,1,0.75,7.25,0.12,False
+2014,T.J. Jones,JoneT.00,Notre Dame,189,,DET,7.0,45.0,Parsed,,,0.0,0.0,False,67,852,5,1.49,18.93,0.11,False
+2014,Matt Hazel,HazeMa01,Coastal Carolina,190,,MIA,0.0,9.0,Parsed,,,0.0,0.0,False,1,1,0,0.11,0.11,0,False
+2014,Walt Powell,PoweWa00,Murray St.,196,,ARI,1.0,15.0,Parsed,,,0.0,0.0,False,14,142,0,0.93,9.47,0,False
+2014,Quincy Enunwa,EnunQu00,Nebraska,209,,NYJ,13.0,41.0,Parsed,,,0.0,0.0,False,119,1617,5,2.9,39.44,0.12,False
+2014,Michael Campanaro,CampMi02,Wake Forest,218,,BAL,4.0,24.0,Parsed,,,0.0,0.0,False,31,310,2,1.29,12.92,0.08,False
+2014,Jeff Janis,JaniJe00,Saginaw Valley St.,236,,GNB,2.0,51.0,Parsed,,,0.0,0.0,False,17,200,1,0.33,3.92,0.02,False
+2014,James Wright,WrigJa03,LSU,239,,CIN,2.0,24.0,Parsed,,,0.0,0.0,False,18,197,0,0.75,8.21,0,False
+2014,Tevin Reese,ReesTe00,Baylor,240,,SDG,,,Parsed,,,0.0,0.0,False,,,,,,,
+2014,Jeremy Gallon,GallJe00,Michigan,244,,NWE,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Amari Cooper,CoopAm00,Alabama,4,,OAK,83.0,154.0,Parsed,,,5.0,0.0,False,711,10033,64,4.62,65.15,0.42,True
+2015,Kevin White,WhitKe00,West Virginia,7,,CHI,3.0,30.0,Parsed,,,0.0,0.0,False,28,397,0,0.93,13.23,0,False
+2015,DeVante Parker,ParkDe01,Louisville,14,,MIA,42.0,119.0,Parsed,,,0.0,0.0,False,402,5660,27,3.38,47.56,0.23,True
+2015,Nelson Agholor,AghoNe00,USC,20,,PHI,43.0,149.0,Parsed,,,0.0,0.0,False,389,4858,37,2.61,32.6,0.25,True
+2015,Breshad Perriman,PerrBr02,Central Florida,26,,BAL,17.0,80.0,Parsed,,,0.0,0.0,False,145,2343,16,1.81,29.29,0.2,False
+2015,Phillip Dorsett,DorsPh00,Miami (FL),29,,IND,18.0,94.0,Parsed,,,0.0,0.0,False,151,2001,12,1.61,21.29,0.13,False
+2015,Devin Smith,SmitDe04,Ohio St.,37,,NYJ,2.0,22.0,Parsed,,,0.0,0.0,False,15,248,2,0.68,11.27,0.09,False
+2015,Dorial Green-Beckham,GreeDo00,Oklahoma,40,,TEN,7.0,31.0,Parsed,,,0.0,0.0,False,68,941,6,2.19,30.35,0.19,False
+2015,Tyler Lockett,LockTy00,Kansas St.,69,,SEA,83.0,161.0,Parsed,,,1.0,1.0,False,661,8594,61,4.11,53.38,0.38,True
+2015,Jaelen Strong,StroJa01,Arizona St.,70,,HOU,2.0,20.0,Parsed,,,0.0,0.0,False,31,330,4,1.55,16.5,0.2,False
+2015,Chris Conley,ConlCh00,Georgia,76,,KAN,26.0,132.0,Parsed,,,0.0,0.0,False,226,2998,15,1.71,22.71,0.11,False
+2015,Sammie Coates,CoatSa00,Auburn,87,,PIT,4.0,44.0,Parsed,,,0.0,0.0,False,29,528,2,0.66,12.0,0.05,False
+2015,Ty Montgomery,MontTy01,Stanford,94,,GNB,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Jamison Crowder,CrowJa00,Duke,105,,WAS,38.0,123.0,Parsed,,,0.0,0.0,False,440,4898,31,3.58,39.82,0.25,False
+2015,Justin Hardy,HardJu00,East Carolina,107,,ATL,9.0,73.0,Parsed,,,0.0,0.0,False,95,946,9,1.3,12.96,0.12,False
+2015,Vince Mayle,MaylVi00,Washington St.,123,,CLE,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,DeAndre Smelter,SmelDe00,Georgia Tech,132,,SFO,0.0,2.0,Parsed,,,0.0,0.0,False,1,23,0,0.5,11.5,0,False
+2015,Rashad Greene,GreeRa00,Florida St.,139,,JAX,2.0,25.0,Parsed,,,0.0,0.0,False,30,185,2,1.2,7.4,0.08,False
+2015,Stefon Diggs,DiggSt00,Maryland,146,,MIN,103.0,144.0,Parsed,,,4.0,1.0,False,857,10491,70,5.95,72.85,0.49,True
+2015,Tony Lippett,LippTo00,Michigan St.,156,,MIA,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,JJ Nelson,NelsJJ00,Ala-Birmingham,159,,ARI,12.0,58.0,Parsed,,,0.0,0.0,False,85,1475,11,1.47,25.43,0.19,False
+2015,Kenny Bell,BellKe02,Nebraska,162,,TAM,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Keith Mumphery,MumpKe00,Michigan St.,175,,HOU,2.0,27.0,Parsed,,,0.0,0.0,False,24,198,0,0.89,7.33,0,False
+2015,Kaelin Clay,ClayKa00,Utah,184,,TAM,,13.0,Parsed,,,0.0,0.0,False,6,85,0,0.46,6.54,0,False
+2015,Geremy Davis,DaviGe00,Connecticut,186,,NYG,0.0,36.0,Parsed,,,0.0,0.0,False,5,59,0,0.14,1.64,0,False
+2015,Evan Spencer,SpenEv00,Ohio St.,187,,WAS,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Bud Sasser,SassBu00,Missouri,201,,STL,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Darren Waller,WallDa01,Georgia Tech,204,,BAL,34.0,86.0,Parsed,,,1.0,0.0,False,350,4124,20,4.07,47.95,0.23,False
+2015,Neal Sterling,SterNe00,Monmouth,220,,JAX,2.0,35.0,Parsed,,,0.0,0.0,False,24,239,0,0.69,6.83,0,False
+2015,Andre Debose,DeboAn00,Florida,221,,OAK,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Da'Ron Brown,BrowDa03,Northern Illinois,233,,KAN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2015,Dezmin Lewis,LewiDe02,Central Arkansas,234,,BUF,0.0,2.0,Parsed,,,0.0,0.0,False,0,0,0,0,0,0,False
+2015,Mario Alford,AlfoMa00,West Virginia,238,,CIN,,1.0,Parsed,,,0.0,0.0,False,1,15,0,1.0,15.0,0,False
+2015,Tre McBride,McBrTr00,William & Mary,245,,TEN,1.0,17.0,Parsed,,,0.0,0.0,False,10,152,1,0.59,8.94,0.06,False
+2016,Corey Coleman,ColeCo00,Baylor,15,,CLE,6.0,27.0,Parsed,,,0.0,0.0,False,61,789,5,2.26,29.22,0.19,False
+2016,Will Fuller,FullWi01,Notre Dame,21,,HOU,26.0,55.0,Parsed,,,0.0,0.0,False,213,3136,24,3.87,57.02,0.44,True
+2016,Josh Doctson,DoctJo00,TCU,22,,WAS,9.0,34.0,Parsed,,,0.0,0.0,False,81,1100,8,2.38,32.35,0.24,False
+2016,Laquon Treadwell,TreaLa00,Mississippi,23,,MIN,9.0,83.0,Parsed,,,0.0,0.0,False,111,1242,5,1.34,14.96,0.06,False
+2016,Sterling Shepard,ShepSt00,Oklahoma,40,,NYG,34.0,104.0,Parsed,,,0.0,0.0,False,404,4429,24,3.88,42.59,0.23,False
+2016,Michael Thomas,ThomMi05,Ohio St.,47,,NOR,66.0,83.0,Parsed,,,3.0,2.0,False,565,6569,36,6.81,79.14,0.43,True
+2016,Tyler Boyd,BoydTy00,Pittsburgh,55,,CIN,56.0,136.0,Parsed,,,0.0,0.0,False,552,6390,31,4.06,46.99,0.23,True
+2016,Braxton Miller,MillBr03,Ohio St.,85,,HOU,2.0,21.0,Parsed,,,0.0,0.0,False,34,261,2,1.62,12.43,0.1,False
+2016,Leonte Carroo,CarrLe00,Rutgers,86,,MIA,2.0,37.0,Parsed,,,0.0,0.0,False,12,192,2,0.32,5.19,0.05,False
+2016,Chris Moore,MoorCh00,Cincinnati,107,,BAL,14.0,111.0,Parsed,,,0.0,0.0,False,138,1710,8,1.24,15.41,0.07,False
+2016,Malcolm Mitchell,MitcMa01,Georgia,112,,NWE,4.0,14.0,Parsed,,,0.0,0.0,False,32,401,4,2.29,28.64,0.29,False
+2016,Ricardo Louis,LouiRi00,Auburn,114,,CLE,3.0,32.0,Parsed,,,0.0,0.0,False,45,562,0,1.41,17.56,0,False
+2016,Pharoh Cooper,CoopPh00,South Carolina,117,,LAR,,75.0,Parsed,,,1.0,1.0,False,61,545,1,0.81,7.27,0.01,False
+2016,Demarcus Robinson,RobiDe01,Florida,126,,KAN,29.0,147.0,Parsed,,,0.0,0.0,False,250,3013,27,1.7,20.5,0.18,False
+2016,Tajae Sharpe,SharTa00,Massachusetts,140,,TEN,13.0,66.0,Parsed,,,0.0,0.0,False,117,1397,8,1.77,21.17,0.12,False
+2016,Jordan Payton,PaytJo00,UCLA,154,,CLE,0.0,4.0,Parsed,,,0.0,0.0,False,1,3,0,0.25,0.75,0,False
+2016,Trevor Davis,DaviTr03,California,163,,GNB,,41.0,Parsed,,,0.0,0.0,False,16,205,1,0.39,5.0,0.02,False
+2016,Tyreek Hill,HillTy00,West Alabama,165,,KAN,116.0,141.0,Parsed,,,8.0,5.0,False,798,11098,82,5.66,78.71,0.58,True
+2016,Rashard Higgins,HiggRa00,Colorado St.,172,,CLE,14.0,85.0,Parsed,,,0.0,0.0,False,137,1890,12,1.61,22.24,0.14,False
+2016,Moritz Boehringer,BoehMo00,,180,,MIN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2016,Jakeem Grant,GranJa00,Texas Tech,186,,MIA,15.0,81.0,Parsed,,,1.0,0.0,False,100,1140,7,1.23,14.07,0.09,False
+2016,Kolby Listenbee,ListKo00,TCU,192,,BUF,,,Parsed,,,0.0,0.0,False,,,,,,,
+2016,Cody Core,CoreCo00,Mississippi,199,,CIN,3.0,51.0,Parsed,,,0.0,0.0,False,33,388,1,0.65,7.61,0.02,False
+2016,Mike Thomas,ThomMi04,Southern Miss,206,,LAR,2.0,76.0,Parsed,,,0.0,0.0,False,30,366,1,0.39,4.82,0.01,False
+2016,Aaron Burbridge,BurbAa00,Michigan St.,213,,SFO,1.0,16.0,Parsed,,,0.0,0.0,False,7,88,0,0.44,5.5,0,False
+2016,Devin Lucien,LuciDe00,Arizona St.,225,,NWE,,,Parsed,,,0.0,0.0,False,,,,,,,
+2016,Demarcus Ayers,AyerDe00,Houston,229,,PIT,0.0,2.0,Parsed,,,0.0,0.0,False,6,53,1,3.0,26.5,0.5,False
+2016,Daniel Braverman,BravDa00,Western Michigan,230,,CHI,,,Parsed,,,0.0,0.0,False,,,,,,,
+2016,Devin Fuller,FullDe00,UCLA,238,,ATL,,,Parsed,,,0.0,0.0,False,,,,,,,
+2016,Charone Peake,PeakCh00,Clemson,241,,NYJ,1.0,31.0,Parsed,,,0.0,0.0,False,22,214,0,0.71,6.9,0,False
+2016,Kenny Lawler,LawlKe00,California,243,,SEA,,,Parsed,,,0.0,0.0,False,,,,,,,
+2017,Corey Davis,DaviCo03,Western Michigan,5,,TEN,34.0,78.0,Parsed,,,0.0,0.0,False,273,3879,17,3.5,49.73,0.22,False
+2017,Mike Williams,WillMi07,Clemson,7,,LAC,43.0,106.0,Parsed,,,0.0,0.0,False,330,5104,32,3.11,48.15,0.3,True
+2017,John Ross,RossJo00,Washington,9,,CIN,7.0,38.0,Parsed,,,0.0,0.0,False,63,963,11,1.66,25.34,0.29,False
+2017,Zay Jones,JoneZa00,East Carolina,37,,BUF,28.0,115.0,Parsed,,,0.0,0.0,False,295,3112,18,2.57,27.06,0.16,False
+2017,Curtis Samuel,SamuCu00,Ohio St.,40,,CAR,33.0,105.0,Parsed,,,0.0,0.0,False,348,3636,23,3.31,34.63,0.22,False
+2017,JuJu Smith-Schuster,SmitJu00,USC,62,,PIT,46.0,104.0,Parsed,,,1.0,0.0,False,448,5279,32,4.31,50.76,0.31,True
+2017,Cooper Kupp,KuppCo00,Eastern Washington,69,,LAR,70.0,104.0,Parsed,,,1.0,1.0,False,634,7776,57,6.1,74.77,0.55,True
+2017,Taywan Taylor,TaylTa00,Western Kentucky,72,,TEN,6.0,35.0,Parsed,,,0.0,0.0,False,53,697,2,1.51,19.91,0.06,False
+2017,ArDarius Stewart,StewAr00,Alabama,79,,NYJ,,,Parsed,,,0.0,0.0,False,,,,,,,
+2017,Carlos Henderson,HendCa01,Louisiana Tech,82,,DEN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2017,Chris Godwin,GodwCh00,Penn St.,84,,TAM,60.0,111.0,Parsed,,,1.0,0.0,False,579,7266,39,5.22,65.46,0.35,True
+2017,Kenny Golladay,GollKe00,Northern Illinois,96,,DET,29.0,73.0,Parsed,,,1.0,0.0,False,226,3670,22,3.1,50.27,0.3,False
+2017,Chad Williams,WillCh05,Grambling St.,98,,ARI,1.0,17.0,Parsed,,,0.0,0.0,False,20,202,1,1.18,11.88,0.06,False
+2017,Amara Darboh,DarbAm00,Michigan,106,,SEA,1.0,16.0,Parsed,,,0.0,0.0,False,8,71,0,0.5,4.44,0,False
+2017,Dede Westbrook,WestDe00,Oklahoma,110,,JAX,15.0,55.0,Parsed,,,0.0,0.0,False,170,1788,9,3.09,32.51,0.16,False
+2017,Josh Reynolds,ReynJo00,Texas A&M,117,,LAR,29.0,116.0,Parsed,,,0.0,0.0,False,233,3127,20,2.01,26.96,0.17,False
+2017,Mack Hollins,HollMa00,North Carolina,118,,PHI,19.0,112.0,Parsed,,,0.0,0.0,False,162,2069,15,1.45,18.47,0.13,False
+2017,Josh Malone,MaloJo00,Tennessee,128,,CIN,1.0,26.0,Parsed,,,0.0,0.0,False,11,91,1,0.42,3.5,0.04,False
+2017,Ryan Switzer,SwitRy00,North Carolina,133,,DAL,3.0,41.0,Parsed,,,0.0,0.0,False,50,321,1,1.22,7.83,0.02,False
+2017,Jehu Chesson,ChesJe00,Michigan,139,,KAN,0.0,24.0,Parsed,,,0.0,0.0,False,3,25,0,0.12,1.04,0,False
+2017,Chad Hansen,HansCh00,California,141,,NYJ,3.0,20.0,Parsed,,,0.0,0.0,False,26,330,1,1.3,16.5,0.05,False
+2017,Shelton Gibson,GibsSh00,West Virginia,166,,PHI,0.0,20.0,Parsed,,,0.0,0.0,False,3,59,0,0.15,2.95,0,False
+2017,Rodney Adams,AdamRo01,South Florida,170,,MIN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2017,Isaiah McKenzie,McKeIs00,Georgia,172,,DEN,16.0,93.0,Parsed,,,0.0,0.0,False,152,1427,11,1.63,15.34,0.12,False
+2017,DeAngelo Yancey,YancDe00,Purdue,175,,GNB,,,Parsed,,,0.0,0.0,False,,,,,,,
+2017,Trent Taylor,TaylTr02,Louisiana Tech,177,,SFO,7.0,80.0,Parsed,,,0.0,0.0,False,88,845,3,1.1,10.56,0.04,False
+2017,Robert Davis,DaviRo00,Georgia St.,209,,WAS,0.0,7.0,Parsed,,,0.0,0.0,False,2,17,0,0.29,2.43,0,False
+2017,Stacy Coley,ColeSt00,Miami (FL),219,,MIN,,3.0,Parsed,,,0.0,0.0,False,0,0,0,0,0,0,False
+2017,David Moore,MoorDa03,East Central (OK),226,,SEA,16.0,74.0,Parsed,,,0.0,0.0,False,115,1608,17,1.55,21.73,0.23,False
+2017,Isaiah Ford,FordIs00,Virginia Tech,237,,MIA,5.0,32.0,Parsed,,,0.0,0.0,False,63,681,2,1.97,21.28,0.06,False
+2017,Noah Brown,BrowNo00,Ohio St.,239,,DAL,19.0,87.0,Parsed,,,0.0,0.0,False,150,2000,6,1.72,22.99,0.07,False
+2017,Malachi Dupre,DuprMa01,LSU,247,,GNB,,,Parsed,,,0.0,0.0,False,,,,,,,
+2018,D.J. Moore,MoorD.00,Maryland,24,,CAR,65.0,114.0,Parsed,,,0.0,0.0,False,558,7531,35,4.89,66.06,0.31,True
+2018,Calvin Ridley,RidlCa00,Alabama,26,,ATL,44.0,83.0,Parsed,,,0.0,0.0,False,388,5375,40,4.67,64.76,0.48,True
+2018,Courtland Sutton,SuttCo00,SMU,40,,DEN,43.0,98.0,Parsed,,,1.0,0.0,False,379,5340,32,3.87,54.49,0.33,True
+2018,Dante Pettis,PettDa00,Washington,44,,SFO,11.0,58.0,Parsed,,,0.0,0.0,False,83,1104,13,1.43,19.03,0.22,False
+2018,Christian Kirk,KirkCh01,Texas A&M,47,,ARI,46.0,93.0,Parsed,,,0.0,0.0,False,404,5176,29,4.34,55.66,0.31,True
+2018,Anthony Miller,MillAn02,Memphis,51,,CHI,13.0,52.0,Parsed,,,0.0,0.0,False,141,1605,12,2.71,30.87,0.23,False
+2018,James Washington,WashJa00,Oklahoma St.,60,,PIT,12.0,62.0,Parsed,,,0.0,0.0,False,114,1629,11,1.84,26.27,0.18,False
+2018,DJ Chark,CharDJ00,LSU,61,,JAX,23.0,76.0,Parsed,,,1.0,0.0,False,216,3100,24,2.84,40.79,0.32,False
+2018,Michael Gallup,GallMi00,Colorado St.,81,,DAL,33.0,86.0,Parsed,,,0.0,0.0,False,266,3744,21,3.09,43.53,0.24,False
+2018,Tre'Quan Smith,SmitTr03,Central Florida,91,,NOR,16.0,67.0,Parsed,,,0.0,0.0,False,131,1764,18,1.96,26.33,0.27,False
+2018,Keke Coutee,CoutKe00,Texas Tech,103,,HOU,7.0,33.0,Parsed,,,0.0,0.0,False,85,966,4,2.58,29.27,0.12,False
+2018,Antonio Callaway,CallAn00,Florida,105,,CLE,5.0,25.0,Parsed,,,0.0,0.0,False,53,695,5,2.12,27.8,0.2,False
+2018,DaeSean Hamilton,HamiDa01,Penn St.,113,,DEN,6.0,46.0,Parsed,,,0.0,0.0,False,81,833,5,1.76,18.11,0.11,False
+2018,Jaleel Scott,ScotJa02,New Mexico St.,132,,BAL,0.0,4.0,Parsed,,,0.0,0.0,False,2,22,0,0.5,5.5,0,False
+2018,J'Mon Moore,MoorJM00,Missouri,133,,GNB,0.0,12.0,Parsed,,,0.0,0.0,False,2,15,0,0.17,1.25,0,False
+2018,Justin Watson,WatsJu01,Pennsylvania,144,,TAM,12.0,90.0,Parsed,,,0.0,0.0,False,87,1322,9,0.97,14.69,0.1,False
+2018,Daurice Fountain,FounDa00,Northern Iowa,159,,IND,0.0,8.0,Parsed,,,0.0,0.0,False,2,23,0,0.25,2.88,0,False
+2018,Jordan Lasley,LaslJo00,UCLA,162,,BAL,,,Parsed,,,0.0,0.0,False,,,,,,,
+2018,Marquez Valdes-Scantling,ValdMa00,South Florida,174,,GNB,32.0,106.0,Parsed,,,0.0,0.0,False,205,3566,20,1.93,33.64,0.19,False
+2018,Damion Ratley,RatlDa00,Texas A&M,175,,CLE,4.0,31.0,Parsed,,,0.0,0.0,False,29,407,1,0.94,13.13,0.03,False
+2018,Deon Cain,CainDe00,Clemson,185,,IND,1.0,15.0,Parsed,,,0.0,0.0,False,9,124,0,0.6,8.27,0,False
+2018,Ray-Ray McCloud,McClRa00,Clemson,187,,BUF,14.0,94.0,Parsed,,,0.0,0.0,False,152,1454,2,1.62,15.47,0.02,False
+2018,Dylan Cantrell,CantDy00,Texas Tech,191,,LAC,,,Parsed,,,0.0,0.0,False,,,,,,,
+2018,Russell Gage,GageRu00,LSU,194,,ATL,21.0,74.0,Parsed,,,0.0,0.0,False,244,2491,14,3.3,33.66,0.19,False
+2018,Tremon Smith,SmitTr04,Central Arkansas,196,,KAN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2018,Equanimeous St. Brown,St.BEq00,Notre Dame,207,,GNB,9.0,62.0,Parsed,,,0.0,0.0,False,63,928,2,1.02,14.97,0.03,False
+2018,Cedrick Wilson Jr.,WilsCe01,Boise St.,208,,DAL,12.0,83.0,Parsed,,,0.0,0.0,False,121,1480,12,1.46,17.83,0.14,False
+2018,Braxton Berrios,BerrBr00,Miami (FL),210,,NWE,12.0,87.0,Parsed,,,0.0,1.0,False,134,1323,6,1.54,15.21,0.07,False
+2018,Javon Wims,WimsJa00,Georgia,224,,CHI,1.0,34.0,Parsed,,,0.0,0.0,False,28,266,2,0.82,7.82,0.06,False
+2018,Marcell Ateman,AtemMa00,Oklahoma St.,228,,OAK,2.0,19.0,Parsed,,,0.0,0.0,False,20,270,1,1.05,14.21,0.05,False
+2018,Richie James,JameRi00,Middle Tenn. St.,240,,SFO,14.0,66.0,Parsed,,,0.0,0.0,False,105,1372,7,1.59,20.79,0.11,False
+2018,Auden Tate,TateAu00,Florida St.,253,,CIN,5.0,35.0,Parsed,,,0.0,0.0,False,61,799,2,1.74,22.83,0.06,False
+2018,Austin Proehl,ProeAu00,North Carolina,255,,BUF,,,Parsed,,,0.0,0.0,False,,,,,,,
+2018,Trey Quinn,QuinTr00,SMU,256,,WAS,2.0,16.0,Parsed,,,0.0,0.0,False,35,273,2,2.19,17.06,0.12,False
+2019,Marquise Brown,BrowMa04,Oklahoma,25,,BAL,38.0,74.0,Parsed,,,0.0,0.0,False,322,3735,28,4.35,50.47,0.38,False
+2019,N'Keal Harry,HarrNK00,Arizona St.,32,,NWE,7.0,49.0,Parsed,,,0.0,0.0,False,64,714,5,1.31,14.57,0.1,False
+2019,Deebo Samuel,SamuDe00,South Carolina,36,,SFO,52.0,81.0,Parsed,,,1.0,1.0,False,334,4792,22,4.12,59.16,0.27,True
+2019,A.J. Brown,BrowAJ00,Mississippi,51,,TEN,74.0,90.0,Parsed,,,3.0,0.0,False,446,7026,49,4.96,78.07,0.54,True
+2019,Mecole Hardman,HardMe00,Georgia,56,,KAN,25.0,80.0,Parsed,,,1.0,0.0,False,178,2302,16,2.23,28.77,0.2,False
+2019,JJ Arcega-Whiteside,ArceJJ00,Stanford,57,,PHI,2.0,40.0,Parsed,,,0.0,0.0,False,16,290,1,0.4,7.25,0.03,False
+2019,Parris Campbell,CampPa00,Ohio St.,59,,IND,10.0,49.0,Parsed,,,0.0,0.0,False,123,1117,6,2.51,22.8,0.12,False
+2019,Andy Isabella,IsabAn00,Massachusetts,62,,ARI,4.0,43.0,Parsed,,,0.0,0.0,False,33,447,3,0.77,10.4,0.07,False
+2019,D.K. Metcalf,MetcDK00,Mississippi,64,,SEA,57.0,97.0,Parsed,,,2.0,0.0,False,438,6324,48,4.52,65.2,0.49,True
+2019,Diontae Johnson,JohnDi01,Toledo,66,,PIT,39.0,89.0,Parsed,,,1.0,0.0,False,424,4738,28,4.76,53.24,0.31,True
+2019,Jalen Hurd,HurdJa00,Baylor,67,,SFO,,,Parsed,,,0.0,0.0,False,,,,,,,
+2019,Terry McLaurin,McLaTe00,Ohio St.,76,,WAS,53.0,97.0,Parsed,,,2.0,0.0,False,460,6379,38,4.74,65.76,0.39,True
+2019,Miles Boykin,BoykMi00,Notre Dame,93,,BAL,6.0,73.0,Parsed,,,0.0,0.0,False,38,498,7,0.52,6.82,0.1,False
+2019,Hakeem Butler,ButlHa00,Iowa St.,103,,ARI,,,Parsed,,,0.0,0.0,False,,,,,,,
+2019,Gary Jennings Jr,JennGa00,West Virginia,120,,SEA,,,Parsed,,,0.0,0.0,False,,,,,,,
+2019,Riley Ridley,RidlRi00,Georgia,126,,CHI,1.0,10.0,Parsed,,,0.0,0.0,False,10,108,0,1.0,10.8,0,False
+2019,Hunter Renfrow,RenfHu00,Clemson,149,,OAK,23.0,73.0,Parsed,,,1.0,0.0,False,269,2884,17,3.68,39.51,0.23,False
+2019,Darius Slayton,SlayDa01,Auburn,171,,NYG,31.0,92.0,Parsed,,,0.0,0.0,False,259,3897,21,2.82,42.36,0.23,False
+2019,KeeSean Johnson,JohnKe07,Fresno St.,174,,ARI,4.0,18.0,Parsed,,,0.0,0.0,False,36,360,1,2.0,20.0,0.06,False
+2019,Travis Fulgham,FulgTr00,Old Dominion,184,,DET,4.0,17.0,Parsed,,,0.0,0.0,False,38,539,4,2.24,31.71,0.24,False
+2019,Juwann Winfree,WinfJu00,Colorado,187,,DEN,1.0,23.0,Parsed,,,0.0,0.0,False,9,75,0,0.39,3.26,0,False
+2019,Marcus Green,GreeMa02,La-Monroe,203,,ATL,,,Parsed,,,0.0,0.0,False,,,,,,,
+2019,Kelvin Harmon,HarmKe00,North Carolina St.,206,,WAS,3.0,16.0,Parsed,,,0.0,0.0,False,30,365,0,1.88,22.81,0,False
+2019,Scott Miller,MillSc01,Bowling Green,208,,TAM,11.0,80.0,Parsed,,,0.0,0.0,False,90,1154,6,1.12,14.43,0.07,False
+2019,John Ursua,UrsuJo00,Hawaii,236,,SEA,0.0,3.0,Parsed,,,0.0,0.0,False,1,11,0,0.33,3.67,0,False
+2019,Terry Godwin,GodwTe00,Georgia,237,,CAR,0.0,3.0,Parsed,,,0.0,0.0,False,3,32,0,1.0,10.67,0,False
+2019,Dillon Mitchell,MitcDi00,Oregon,239,,MIN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2019,Olabisi Johnson,JohnOl00,Colorado St.,247,,MIN,5.0,32.0,Parsed,,,0.0,0.0,False,45,483,3,1.41,15.09,0.09,False
+2020,Henry Ruggs III,RuggHe00,Alabama,12,,LVR,8.0,20.0,Parsed,,,0.0,0.0,False,50,921,4,2.5,46.05,0.2,False
+2020,Jerry Jeudy,JeudJe00,Alabama,15,,DEN,31.0,74.0,Parsed,,,1.0,0.0,False,301,4282,15,4.07,57.86,0.2,False
+2020,CeeDee Lamb,LambCe00,Oklahoma,17,,DAL,62.0,81.0,Parsed,,,4.0,1.0,False,496,6339,38,6.12,78.26,0.47,True
+2020,Jalen Reagor,ReagJa00,TCU,21,,PHI,11.0,64.0,Parsed,,,0.0,0.0,False,86,1037,4,1.34,16.2,0.06,False
+2020,Justin Jefferson,JeffJu00,LSU,22,,MIN,63.0,77.0,Parsed,,,4.0,2.0,False,495,7432,40,6.43,96.52,0.52,True
+2020,Brandon Aiyuk,AiyuBr00,Arizona St.,25,,SFO,42.0,69.0,Parsed,,,0.0,0.0,False,294,4305,25,4.26,62.39,0.36,True
+2020,Tee Higgins,HiggTe00,Clemson,33,,CIN,41.0,70.0,Parsed,,,0.0,0.0,False,330,4595,34,4.71,65.64,0.49,True
+2020,Michael Pittman Jr.,PittMi01,USC,34,,IND,41.0,78.0,Parsed,,,0.0,0.0,False,405,4470,18,5.19,57.31,0.23,True
+2020,Laviska Shenault Jr.,ShenLa00,Colorado,42,,JAX,14.0,63.0,Parsed,,,0.0,0.0,False,163,1587,6,2.59,25.19,0.1,False
+2020,KJ Hamler,HamlKJ00,Penn St.,46,,DEN,5.0,23.0,Parsed,,,0.0,0.0,False,42,620,3,1.83,26.96,0.13,False
+2020,Chase Claypool,ClayCh01,Notre Dame,49,,PIT,20.0,58.0,Parsed,,,0.0,0.0,False,175,2261,13,3.02,38.98,0.22,False
+2020,Van Jefferson,JeffVa00,Florida,57,,LAR,18.0,78.0,Parsed,,,0.0,0.0,False,137,1876,12,1.76,24.05,0.15,False
+2020,Denzel Mims,MimsDe00,Baylor,59,,NYJ,5.0,30.0,Parsed,,,0.0,0.0,False,42,676,0,1.4,22.53,0,False
+2020,Lynn Bowden Jr.,BowdLy00,Kentucky,80,,LVR,3.0,26.0,Parsed,,,0.0,0.0,False,39,294,0,1.5,11.31,0,False
+2020,Bryan Edwards,EdwaBr01,South Carolina,81,,LVR,6.0,35.0,Parsed,,,0.0,0.0,False,48,779,4,1.37,22.26,0.11,False
+2020,Devin Duvernay,DuveDe00,Texas,92,,BAL,13.0,72.0,Parsed,,,2.0,1.0,False,105,977,5,1.46,13.57,0.07,True
+2020,Gabriel Davis,DaviGa01,Central Florida,128,,BUF,29.0,74.0,Parsed,,,0.0,0.0,False,183,2969,29,2.47,40.12,0.39,False
+2020,Antonio Gandy-Golden,GandAn00,Liberty,142,,WAS,0.0,10.0,Parsed,,,0.0,0.0,False,1,3,0,0.1,0.3,0,False
+2020,Joe Reed,ReedJo03,Virginia,151,,LAC,,,Parsed,,,0.0,0.0,False,,,,,,,
+2020,Tyler Johnson,JohnTy00,Minnesota,161,,TAM,8.0,49.0,Parsed,,,0.0,0.0,False,76,828,4,1.55,16.9,0.08,False
+2020,Collin Johnson,JohnCo01,Texas,165,,JAX,3.0,38.0,Parsed,,,0.0,0.0,False,31,394,2,0.82,10.37,0.05,False
+2020,Quintez Cephus,CephQu00,Wisconsin,166,,DET,5.0,22.0,Parsed,,,0.0,0.0,False,37,568,4,1.68,25.82,0.18,False
+2020,John Hightower,HighJo00,Boise St.,168,,PHI,1.0,14.0,Parsed,,,0.0,0.0,False,10,167,0,0.71,11.93,0,False
+2020,Isaiah Coulter,CoulIs00,Rhode Island,171,,HOU,0.0,4.0,Parsed,,,0.0,0.0,False,0,0,0,0,0,0,False
+2020,Darnell Mooney,MoonDa00,Tulane,173,,CHI,33.0,76.0,Parsed,,,0.0,0.0,False,277,3585,16,3.64,47.17,0.21,False
+2020,K.J. Osborn,OsboKJ00,Miami (FL),176,,MIN,14.0,67.0,Parsed,,,0.0,0.0,False,165,1902,16,2.46,28.39,0.24,False
+2020,Donovan Peoples-Jones,PeopDo00,Michigan,187,,CLE,19.0,58.0,Parsed,,,0.0,0.0,False,122,1895,8,2.1,32.67,0.14,False
+2020,Quez Watkins,WatkQu00,Southern Miss,200,,PHI,13.0,49.0,Parsed,,,0.0,0.0,False,98,1249,6,2.0,25.49,0.12,False
+2020,James Proche,ProcJa00,SMU,201,,BAL,3.0,62.0,Parsed,,,0.0,0.0,False,28,299,0,0.45,4.82,0,False
+2020,Isaiah Hodgins,HodgIs00,Oregon St.,207,,BUF,5.0,31.0,Parsed,,,0.0,0.0,False,60,634,7,1.94,20.45,0.23,False
+2020,Dezmon Patmon,PatmDe00,Washington St.,212,,IND,0.0,10.0,Parsed,,,0.0,0.0,False,4,45,1,0.4,4.5,0.1,False
+2020,Freddie Swain,SwaiFr00,Florida,214,,SEA,5.0,37.0,Parsed,,,0.0,0.0,False,42,576,6,1.14,15.57,0.16,False
+2020,Jauan Jennings,JennJa00,Tennessee,217,,SFO,17.0,60.0,Parsed,,,0.0,0.0,False,155,1938,13,2.58,32.3,0.22,False
+2020,K.J. Hill,HillKJ00,Ohio St.,220,,LAC,1.0,21.0,Parsed,,,0.0,0.0,False,10,103,0,0.48,4.9,0,False
+2020,Tyrie Cleveland,ClevTy00,Florida,252,,DEN,0.0,23.0,Parsed,,,0.0,0.0,False,8,91,0,0.35,3.96,0,False
+2021,Ja'Marr Chase,ChasJa00,LSU,5,,CIN,51.0,62.0,Parsed,,,4.0,1.0,False,395,5425,46,6.37,87.5,0.74,True
+2021,Jaylen Waddle,WaddJa00,Alabama,6,,MIA,36.0,62.0,Parsed,,,0.0,0.0,False,309,4129,20,4.98,66.6,0.32,True
+2021,DeVonta Smith,SmitDe07,Alabama,10,,PHI,43.0,63.0,Parsed,,,0.0,0.0,False,308,4011,27,4.89,63.67,0.43,True
+2021,Kadarius Toney,ToneKa00,Florida,20,,NYG,7.0,35.0,Parsed,,,0.0,0.0,False,82,760,3,2.34,21.71,0.09,False
+2021,Rashod Bateman,BateRa00,Minnesota,27,,BAL,19.0,51.0,Parsed,,,0.0,0.0,False,138,1923,13,2.71,37.71,0.25,False
+2021,Elijah Moore,MoorEl00,Mississippi,34,,NYJ,15.0,61.0,Parsed,,,0.0,0.0,False,200,2162,9,3.28,35.44,0.15,False
+2021,Rondale Moore,MoorRo02,Purdue,49,,ARI,13.0,39.0,Parsed,,,0.0,0.0,False,135,1201,3,3.46,30.79,0.08,False
+2021,D'Wayne Eskridge,EskrDW00,Western Michigan,56,,SEA,2.0,30.0,Parsed,,,0.0,0.0,False,20,166,1,0.67,5.53,0.03,False
+2021,Tutu Atwell,AtweTu00,Louisville,57,,LAR,13.0,54.0,Parsed,,,0.0,0.0,False,99,1343,4,1.83,24.87,0.07,False
+2021,Terrace Marshall Jr.,MarsTe00,LSU,59,,CAR,6.0,43.0,Parsed,,,0.0,0.0,False,67,808,1,1.56,18.79,0.02,False
+2021,Josh Palmer,PalmJo00,Tennessee,77,,LAC,20.0,58.0,Parsed,,,0.0,0.0,False,182,2287,10,3.14,39.43,0.17,False
+2021,Dyami Brown,BrowDy00,North Carolina,82,,WAS,6.0,63.0,Parsed,,,0.0,0.0,False,59,784,4,0.94,12.44,0.06,False
+2021,Amari Rodgers,RodgAm00,Clemson,85,,GNB,2.0,35.0,Parsed,,,0.0,0.0,False,20,249,1,0.57,7.11,0.03,False
+2021,Nico Collins,CollNi00,Michigan,89,,HOU,26.0,51.0,Parsed,,,1.0,0.0,False,218,3230,18,4.27,63.33,0.35,True
+2021,Anthony Schwartz,SchwAn00,Auburn,91,,CLE,2.0,25.0,Parsed,,,0.0,0.0,False,14,186,1,0.56,7.44,0.04,False
+2021,Dez Fitzpatrick,FitzDe00,Louisville,109,,TEN,0.0,7.0,Parsed,,,0.0,0.0,False,5,49,1,0.71,7.0,0.14,False
+2021,Amon-Ra St. Brown,StxxAm00,USC,112,,DET,50.0,66.0,Parsed,,,3.0,2.0,False,430,4851,33,6.52,73.5,0.5,True
+2021,Jaelon Darden,DardJa00,North Texas,129,,TAM,,35.0,Parsed,,,0.0,0.0,False,9,75,0,0.26,2.14,0,False
+2021,Tylan Wallace,WallTy00,Oklahoma St.,131,,BAL,3.0,54.0,Parsed,,,0.0,0.0,False,18,260,1,0.33,4.81,0.02,False
+2021,Jacob Harris,HarrJa03,Central Florida,141,,LAR,0.0,18.0,Parsed,,,0.0,0.0,False,1,6,0,0.06,0.33,0,False
+2021,Ihmir Smith-Marsette,SmitIh00,Iowa,157,,MIN,,33.0,Parsed,,,0.0,0.0,False,14,182,2,0.42,5.52,0.06,False
+2021,Simi Fehoko,FehoSi00,Stanford,179,,DAL,1.0,24.0,Parsed,,,0.0,0.0,False,10,139,1,0.42,5.79,0.04,False
+2021,Cornell Powell,PoweCo00,Clemson,181,,KAN,,,Parsed,,,0.0,0.0,False,,,,,,,
+2021,Frank Darby,DarbFr00,Arizona St.,187,,ATL,0.0,16.0,Parsed,,,0.0,0.0,False,2,29,0,0.12,1.81,0,False
+2021,Marquez Stevenson,StevMa00,Houston,203,,BUF,,,Parsed,,,0.0,0.0,False,,,,,,,
+2021,Shi Smith,SmitSh03,South Carolina,204,,CAR,4.0,23.0,Parsed,,,0.0,0.0,False,28,400,2,1.22,17.39,0.09,False
+2021,Racey McMath,McMaRa00,LSU,205,,TEN,0.0,14.0,Parsed,,,0.0,0.0,False,4,48,0,0.29,3.43,0,False
+2021,Jalen Camp,CampJa03,Georgia Tech,209,,JAX,0.0,5.0,Parsed,,,0.0,0.0,False,1,7,0,0.2,1.4,0,False
+2021,Seth Williams,WillSe00,Auburn,219,,DEN,0.0,2.0,Parsed,,,0.0,0.0,False,1,34,0,0.5,17.0,0,False
+2021,Dazz Newsome,NewsDa00,North Carolina,221,,CHI,0.0,3.0,Parsed,,,0.0,0.0,False,2,23,0,0.67,7.67,0,False
+2021,Mike Strachan,StraMi03,Charleston (WV),229,,IND,0.0,23.0,Parsed,,,0.0,0.0,False,6,130,0,0.26,5.65,0,False
+2021,Tre Nixon,NixoTr01,Central Florida,242,,NWE,,,Parsed,,,0.0,0.0,False,,,,,,,
+2021,Ben Skowronek,SkowBe00,Notre Dame,249,,LAR,7.0,55.0,Parsed,,,0.0,0.0,False,63,644,1,1.15,11.71,0.02,False
+2021,Kawaan Baker,BakeKa00,South Alabama,255,,NOR,,,Parsed,,,0.0,0.0,False,,,,,,,
+2021,Dax Milne,MilnDa00,BYU,258,,WAS,1.0,28.0,Parsed,,,0.0,0.0,False,15,120,1,0.54,4.29,0.04,False
+2022,Drake London,LondDr00,USC,8,,ATL,26.0,50.0,Parsed,,,0.0,0.0,False,241,3042,15,4.82,60.84,0.3,True
+2022,Garrett Wilson,WilsGa00,Ohio St.,10,,NYJ,25.0,51.0,Parsed,,,0.0,0.0,False,279,3249,14,5.47,63.71,0.27,True
+2022,Chris Olave,OlavCh00,Ohio St.,11,,NOR,21.0,39.0,Parsed,,,0.0,0.0,False,191,2565,10,4.9,65.77,0.26,True
+2022,Jameson Williams,WillJa11,Alabama,12,,DET,16.0,33.0,Parsed,,,0.0,0.0,False,83,1396,10,2.52,42.3,0.3,False
+2022,Jahan Dotson,DotsJa00,Penn St.,16,,WAS,11.0,46.0,Parsed,,,0.0,0.0,False,103,1257,11,2.24,27.33,0.24,False
+2022,Treylon Burks,BurkTr00,Arkansas,18,,TEN,6.0,27.0,Parsed,,,0.0,0.0,False,53,699,1,1.96,25.89,0.04,False
+2022,Christian Watson,WatsCh00,North Dakota St.,34,,GNB,17.0,38.0,Parsed,,,0.0,0.0,False,98,1653,14,2.58,43.5,0.37,False
+2022,Wan'Dale Robinson,RobiWa01,Kentucky,43,,NYG,11.0,38.0,Parsed,,,0.0,0.0,False,176,1451,5,4.63,38.18,0.13,False
+2022,John Metchie,MetcJo00,Alabama,44,,HOU,3.0,29.0,Parsed,,,0.0,0.0,False,40,412,1,1.38,14.21,0.03,False
+2022,Tyquan Thornton,ThorTy00,Baylor,50,,NWE,3.0,28.0,Parsed,,,0.0,0.0,False,39,385,2,1.39,13.75,0.07,False
+2022,George Pickens,PickGe00,Georgia,52,,PIT,25.0,48.0,Parsed,,,0.0,0.0,False,174,2841,12,3.62,59.19,0.25,False
+2022,Alec Pierce,PierAl00,Cincinnati,53,,IND,16.0,49.0,Parsed,,,0.0,0.0,False,110,1931,11,2.24,39.41,0.22,False
+2022,Skyy Moore,MoorSk01,Western Michigan,54,,KAN,4.0,36.0,Parsed,,,0.0,0.0,False,43,494,1,1.19,13.72,0.03,False
+2022,Velus Jones Jr.,JoneVe00,Tennessee,71,,CHI,,,Parsed,,,0.0,0.0,False,,,,,,,
+2022,Jalen Tolbert,TolbJa00,South Alabama,88,,DAL,7.0,42.0,Parsed,,,0.0,0.0,False,73,890,9,1.74,21.19,0.21,False
+2022,David Bell,BellDa02,Purdue,99,,CLE,3.0,32.0,Parsed,,,0.0,0.0,False,41,408,3,1.28,12.75,0.09,False
+2022,Danny Gray,GrayDa02,SMU,105,,SFO,,,Parsed,,,0.0,0.0,False,,,,,,,
+2022,Erik Ezukanma,EzukEr00,Texas Tech,125,,MIA,,,Parsed,,,0.0,0.0,False,,,,,,,
+2022,Romeo Doubs,DoubRo00,Nevada,132,,GNB,17.0,43.0,Parsed,,,0.0,0.0,False,147,1700,15,3.42,39.53,0.35,False
+2022,Calvin Austin III,AustCa00,Memphis,138,,PIT,8.0,34.0,Parsed,,,0.0,0.0,False,53,728,5,1.56,21.41,0.15,False
+2022,Khalil Shakir,ShakKh00,Boise St.,148,,BUF,18.0,46.0,Success,,,,,,,,,,,,
+2022,Montrell Washington,WashMo00,Samford,162,,DEN,,,Table not found,,,0.0,0.0,False,,,,,,,
+2022,Kyle Philips,PhilKy01,UCLA,163,,TEN,3.0,13.0,Success,,,,,,,,,,,,
+2022,Jalen Nailor,NailJa00,Michigan St.,191,,MIN,5.0,38.0,Success,,,,,,,,,,,,
+2022,Michael Woods II,WoodMi00,Oklahoma,202,,CLE,0.0,15.0,Success,,,,,,,,,,,,
+2022,Bo Melton,MeltBo00,Rutgers,229,,SEA,3.0,22.0,Success,,,,,,,,,,,,
+2022,Dareke Young,YounDa02,Lenoir-Rhyne,233,,SEA,0.0,33.0,Success,,,,,,,,,,,,
+2022,Samori Toure,TourSa00,Nebraska,258,,GNB,2.0,22.0,Success,,,,,,,,,,,,

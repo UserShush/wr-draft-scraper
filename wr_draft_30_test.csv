@@ -1,0 +1,11 @@
+Year,Player,Player_ID,College,Pick,Round,Team,Career_AV,Games_Played,Note,Pro_Bowls,All_Pros,OPOY,Receptions,Receiving_Yards,Receiving_TDs,Rec/Game,Yards/Game,TD/Game,Successful
+2013,Tavon Austin,AustTa00,West Virginia,8,,STL,29,113,Parsed,0,0,False,244,2239,16,2.16,19.81,0.14,False
+2013,DeAndre Hopkins,HopkDe00,Clemson,27,,HOU,106,178,Parsed,5,3,False,984,12965,83,5.53,72.84,0.47,True
+2013,Cordarrelle Patterson,PattCo00,Tennessee,29,,MIN,,,Parsed,4,4,False,,,,,,,
+2013,Justin Hunter,HuntJu00,Tennessee,34,,TEN,10,60,Parsed,0,0,False,85,1349,13,1.42,22.48,0.22,False
+2013,Robert Woods,WoodRo02,USC,41,,BUF,74,171,Parsed,0,0,False,683,8233,38,3.99,48.15,0.22,True
+2013,Aaron Dobson,DobsAa00,Marshall,59,,NWE,6,24,Parsed,0,0,False,53,698,4,2.21,29.08,0.17,False
+2013,Terrance Williams,WillTe01,Baylor,74,,DAL,30,83,Parsed,0,0,False,232,3377,20,2.8,40.69,0.24,False
+2013,Keenan Allen,AlleKe00,California,76,,SDG,97,154,Parsed,6,0,False,974,11274,66,6.32,73.21,0.43,True
+2013,Marquise Goodwin,GoodMa00,Texas,78,,BUF,27,114,Parsed,0,0,False,191,3090,18,1.68,27.11,0.16,False
+2013,Markus Wheaton,WheaMa00,Oregon St.,79,,PIT,13,59,Parsed,0,0,False,110,1559,8,1.86,26.42,0.14,False
